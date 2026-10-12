@@ -1,0 +1,60 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Install dev dependencies",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "pip", "install", "-e", ".[dev]"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Doctor",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "pure_pino", "doctor"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Example",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "pure_pino", "example"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Tests",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "pytest"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "group": {"kind": "test", "isDefault": true},
+      "problemMatcher": []
+    },
+    {
+      "label": "Lint",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "ruff", "check", "."],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Format check",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "ruff", "format", "--check", "."],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "All checks",
+      "dependsOn": ["Lint", "Format check", "Tests"],
+      "dependsOrder": "sequence",
+      "problemMatcher": []
+    }
+  ]
+}

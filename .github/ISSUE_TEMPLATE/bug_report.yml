@@ -1,0 +1,60 @@
+name: Bug report
+description: Report a reproducible code or interface failure.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use a minimal, sanitized reproduction. Do not attach credentials, private
+        observations, weights, server addresses, or full experiment archives.
+        Distinguish software failures from unverified scientific accuracy claims.
+  - type: input
+    id: revision
+    attributes:
+      label: Version or commit
+      description: The repository commit or installed package version.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Python version, PyTorch version, and CPU/CUDA; sanitize any doctor output.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Exact commands or a short example using generated or redistributable inputs.
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Sanitized error output and relevant failure status.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Validation scope and limitations
+      description: For scientific code, state whether the evidence is manufactured, native-physics, or real-data, and identify the affected contract.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Publication checks
+      options:
+        - label: I removed credentials, private data, checkpoints, and personal/server connection details.
+          required: true
+        - label: I included the actual failure and have not described an unrun or incomplete check as passed.
+          required: true

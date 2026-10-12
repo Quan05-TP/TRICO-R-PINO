@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "pure_pino: doctor",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pure_pino",
+      "args": ["doctor"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "pure_pino: example",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pure_pino",
+      "args": ["example"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

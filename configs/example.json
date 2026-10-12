@@ -1,0 +1,27 @@
+{
+  "schema": "PURE_PINO_MANUFACTURED_INTERFACE_EXAMPLE/1",
+  "scope": "external_interface_only_not_real_data_training_or_accuracy",
+  "device": "cpu",
+  "seed": 13,
+  "model": {
+    "node_features": 9,
+    "token_features": 9,
+    "width": 16,
+    "blocks": 1,
+    "heads": 2,
+    "spectral_modes": 2,
+    "reference_temperature_C": 7.0,
+    "thermal_scale_K": 7.0
+  },
+  "factory_clock_contract": "RELATIVE_SUPPORT_SPLIT_SI_AFFINE_CLOCK_V1",
+  "factory_token_clock_feature_mode": "split_native_support_affine",
+  "utc_feature_contract_id": "UTC_GREGORIAN_ACTUAL_YEAR_AND_DAY_PHASE_V7",
+  "clock_units": "raw float64 seconds; external UTC origin int64 nanoseconds",
+  "geometry": {"nodes": 64, "columns": 1, "basis": "P0 cell means"},
+  "direct_block_hours": 24,
+  "demonstration_horizon_hours": 48,
+  "optimizer_updates": 0,
+  "target_values_used": false,
+  "normalization": "explicit manufactured fixture, not certified TRAIN statistics",
+  "real_data_admission_or_accuracy_claimed": false
+}

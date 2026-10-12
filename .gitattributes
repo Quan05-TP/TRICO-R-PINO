@@ -1,0 +1,19 @@
+* text=auto eol=lf
+
+# Preserve exact bytes for hash-bound native and feature snapshots.
+src/pure_pino/_native/** -text whitespace=cr-at-eol
+src/pure_pino/_features/** -text whitespace=cr-at-eol
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.pt binary
+*.pth binary
+*.npy binary
+*.npz binary
+*.parquet binary
+*.sqlite binary
+*.sqlite3 binary

@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trico-pure-pino"
+version = "0.1.0"
+description = "External-conditioned direct lake fields with split SI clocks and native physics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "Quan05-TP"}]
+dependencies = ["numpy>=1.26,<3", "torch>=2.2,<3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4,<9", "ruff==0.14.0", "build>=1.2,<2"]
+
+[project.scripts]
+pure-pino = "pure_pino.cli:main"
+
+[project.urls]
+Repository = "https://github.com/Quan05-TP/TRICO-R-PINO"
+Issues = "https://github.com/Quan05-TP/TRICO-R-PINO/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+pure_pino = [
+  "_native/core/inputs/PINO281_2001_inputs/engine/v35_7_g0_coupled_r1/*.py",
+  "_native/core/inputs/PINO281_2001_inputs/engine/v35_7_enthalpy_window_operator_r1/*.py",
+  "_native/runtime/*.py",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]
+addopts = "--strict-markers"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+extend-exclude = ["src/pure_pino/_native", "src/pure_pino/_features", ".venv"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.ruff.format]
+quote-style = "double"

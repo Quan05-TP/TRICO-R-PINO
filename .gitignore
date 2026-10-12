@@ -1,0 +1,47 @@
+# Local environments, editor caches and build products
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Private credentials and machine configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.local.json
+*.local.yaml
+*.local.yml
+.ssh/
+
+# Data and scientific outputs remain outside Git
+data/
+datasets/
+checkpoints/
+runs/
+outputs/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.parquet
+*.sqlite
+*.sqlite3
+*.db
+*.nc
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz

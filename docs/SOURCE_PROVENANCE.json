@@ -1,0 +1,157 @@
+{
+  "schema": "PURE_PINO_PUBLISHED_SOURCE_PROVENANCE/1",
+  "note": "This is a package port of the latest untrained LayerNorm_split_SI_clock candidate. Import namespaces and dependency metadata changed; old complete scientific qualification is not inherited. Fresh scientific qualification is required for this published package. Original source names are workspace-relative; no data, weights or run receipts are included.",
+  "files": [
+    {
+      "source_role": "latest_LayerNorm_split_SI_clock_neural_operator",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/phase/direct_model.py",
+      "original_sha256": "05d97e19e80daa5d6e1c1bda1ba2c4776abd119fc126eddbfb19dda4aa7d3684",
+      "publication_path": "src/pure_pino/model.py",
+      "modification_type": "relative_package_imports_and_GeometryBlock_namespace; remove_import_only_bytecode_guard",
+      "publication_sha256": "79b5018d8c70cf22b354fb8274d547027aba9f7e9dc55fa42c6f0fb6e53b2867",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "latest_candidate_component",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/phase/clock_features.py",
+      "original_sha256": "4723a280c8a53c3623db95062cd6e01da9e730de07d6865ae5792a5813f93edf",
+      "publication_path": "src/pure_pino/clock_features.py",
+      "modification_type": "Ruff_formatting_and_import_cleanup",
+      "publication_sha256": "161c5d8257b69585dcfb066602ee66e3196ec4e6ab05ee47ed2e3af229a43517",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "latest_candidate_component",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/phase/utc_features.py",
+      "original_sha256": "fc74a20df37057b99c342301f9661e53630fa88f6c4b64eefca24fd3d486158a",
+      "publication_path": "src/pure_pino/utc_features.py",
+      "modification_type": "Ruff_formatting_and_import_cleanup",
+      "publication_sha256": "2ffca0f1f88b99ef575b6c4588c07ba74c0c1b1cf811a74c8fec34f39396c547",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "latest_candidate_component",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/phase/direct_phase.py",
+      "original_sha256": "33fafded1dd49160b48ed620a2fda983791e0c796103279861fe85f8f7827f3a",
+      "publication_path": "src/pure_pino/phase.py",
+      "modification_type": "Ruff_formatting_and_import_cleanup_with_filename_relocation",
+      "publication_sha256": "5ad5b09f9097ece68a56a021d204279a48aeb79c84ed124ce5cad1b07164a9d1",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "latest_candidate_component",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/phase/native_bindings.py",
+      "original_sha256": "e34f2375a42ab7e097424c449e158bd2f40bb1f8b85286e805ba8cc6033c1a68",
+      "publication_path": "src/pure_pino/native_bindings.py",
+      "modification_type": "Ruff_formatting_and_import_cleanup",
+      "publication_sha256": "6f977a151677e9c5e2b10f5ce45d7f6d9371ee6b3cb526a77ab9af1c23ae5044",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "conditional_coupled_inventory_and_power_residual",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/phase/coupled.py",
+      "original_sha256": "e2c9bf2ddfafa795ab3bf4caf1d3993b963f0ee6efaa77d7b496f0318a933798",
+      "publication_path": "src/pure_pino/coupled.py",
+      "modification_type": "relative_phase_import; remove_unused_legacy_closure_metadata_binding; hash_ported_phase_and_model_with_Path_with_name",
+      "publication_sha256": "9d666c981117b9985a4070113bbae21d38ea1a1c99d66f935f0aa25bd68b2fa0",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "native_constitutive_surface_root_component",
+      "source_relative_name": "work/source_repair_20261007/clock_candidate/surface_melting.py",
+      "original_sha256": "26b93ef330aed2edabbb56543200c6c9f4f4de119885bbc806b34cfc49073823",
+      "publication_path": "src/pure_pino/surface_melting.py",
+      "modification_type": "Ruff_formatting_and_import_cleanup",
+      "publication_sha256": "3bd6e2022e4830b6f0dae9c29773ceb3a4df00846c5957d25d3e9af7b6d66f24",
+      "publication_byte_exact_to_original": false,
+      "publication_style": "Ruff formatting and import cleanup; portable namespace"
+    },
+    {
+      "source_role": "hash_bound_graph_spectral_feature_import_closure",
+      "source_relative_name": "work/full_round_20261004/branch/src/lake_stinverse/__init__.py",
+      "original_sha256": "106eb64aacbd0e5bc739c6ad40d6fb1add9ae2b92611e1251d5bdcdeb3f42048",
+      "publication_path": "src/pure_pino/_features/__init__.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "106eb64aacbd0e5bc739c6ad40d6fb1add9ae2b92611e1251d5bdcdeb3f42048",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "hash_bound_graph_spectral_feature_import_closure",
+      "source_relative_name": "work/full_round_20261004/branch/src/lake_stinverse/model.py",
+      "original_sha256": "88a8aaef91e3cee5bfb3aa5dcb0b3924c6fe5657f1a835866b10961f3effc854",
+      "publication_path": "src/pure_pino/_features/model.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "88a8aaef91e3cee5bfb3aa5dcb0b3924c6fe5657f1a835866b10961f3effc854",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "hash_bound_graph_spectral_feature_import_closure",
+      "source_relative_name": "work/full_round_20261004/branch/src/lake_stinverse/batch.py",
+      "original_sha256": "3b7499cd677c994327a0af9141a1d71dff4b8a68008bfb985119561d1a70f9ac",
+      "publication_path": "src/pure_pino/_features/batch.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "3b7499cd677c994327a0af9141a1d71dff4b8a68008bfb985119561d1a70f9ac",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "hash_bound_graph_spectral_feature_import_closure",
+      "source_relative_name": "work/full_round_20261004/branch/src/lake_stinverse/contracts.py",
+      "original_sha256": "8c6f3354eb5acddd14a3f9a52f7ea0cb4cb138e2cb6e8e7a0486dc57497a2f2e",
+      "publication_path": "src/pure_pino/_features/contracts.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "8c6f3354eb5acddd14a3f9a52f7ea0cb4cb138e2cb6e8e7a0486dc57497a2f2e",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "hash_bound_graph_spectral_feature_import_closure",
+      "source_relative_name": "work/full_round_20261004/branch/src/lake_stinverse/io.py",
+      "original_sha256": "56966504aa200a1d4aaac7871197e2976fa3fcf0487eda0b9d8debeb93b9dc78",
+      "publication_path": "src/pure_pino/_features/io.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "56966504aa200a1d4aaac7871197e2976fa3fcf0487eda0b9d8debeb93b9dc78",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "unchanged_user_TACO_native_constitutive_utility",
+      "source_relative_name": "work/full_round_20261004/taco_core_evidence/inputs/PINO281_2001_inputs/engine/v35_7_g0_coupled_r1/weather.py",
+      "original_sha256": "1a6a6633e8602f7c1c951f56ea66fd1de51eedd0b078fa12380f9f883d1522dd",
+      "publication_path": "src/pure_pino/_native/core/inputs/PINO281_2001_inputs/engine/v35_7_g0_coupled_r1/weather.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "1a6a6633e8602f7c1c951f56ea66fd1de51eedd0b078fa12380f9f883d1522dd",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "unchanged_user_TACO_native_constitutive_utility",
+      "source_relative_name": "work/full_round_20261004/taco_core_evidence/inputs/PINO281_2001_inputs/engine/v35_7_enthalpy_window_operator_r1/snow_ice_components.py",
+      "original_sha256": "4710685e7a57f3466d463775cdd143a25de788529a24ed7fbb0f98bcf85f1cc0",
+      "publication_path": "src/pure_pino/_native/core/inputs/PINO281_2001_inputs/engine/v35_7_enthalpy_window_operator_r1/snow_ice_components.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "4710685e7a57f3466d463775cdd143a25de788529a24ed7fbb0f98bcf85f1cc0",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "unchanged_user_TACO_native_constitutive_utility",
+      "source_relative_name": "work/full_round_20261004/current_runtime/runtime_v2/daily_physics.py",
+      "original_sha256": "c1f447c991ed75de484902d32c40460c3ebbb803d625991d653f6eb1d2e13fc7",
+      "publication_path": "src/pure_pino/_native/runtime/daily_physics.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "c1f447c991ed75de484902d32c40460c3ebbb803d625991d653f6eb1d2e13fc7",
+      "publication_byte_exact_to_original": true
+    },
+    {
+      "source_role": "unchanged_user_TACO_native_constitutive_utility",
+      "source_relative_name": "work/full_round_20261004/current_runtime/runtime_v2/bed_exchange.py",
+      "original_sha256": "77c5bdfde8106d3f2ac843f45237063ca71b75cd62b820043943e51148b3192f",
+      "publication_path": "src/pure_pino/_native/runtime/bed_exchange.py",
+      "modification_type": "byte_exact_copy",
+      "publication_sha256": "77c5bdfde8106d3f2ac843f45237063ca71b75cd62b820043943e51148b3192f",
+      "publication_byte_exact_to_original": true
+    }
+  ]
+}
