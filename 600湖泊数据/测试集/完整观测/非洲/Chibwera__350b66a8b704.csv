@@ -1,7 +1,7 @@
 ﻿lake_name,Chibwera
 lake_ID,CSV:UGANDA_CRATER:UG_002
-latitude,
-longtitude,
+latitude,-0.153153
+longtitude,30.142931
 continent,非洲
 country,Uganda
 salinity,3.30E002 mg/L（PANGAEA.983366 环境背景资料；采样日期和深度未注明；不代表每次温深观测的同期盐度）

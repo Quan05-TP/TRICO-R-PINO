@@ -1,7 +1,7 @@
 ﻿lake_name,Lake Miers
 lake_ID,CSV:NEW:EDI_KNB_LTER_MCM_88_V22|Miers
-latitude,
-longtitude,
+latitude,-78.097778320313
+longtitude,163.846664428711
 continent,南极洲
 country,Antarctica
 salinity,0.5 PSU

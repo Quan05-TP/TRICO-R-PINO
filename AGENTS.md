@@ -22,6 +22,13 @@ nonzero gradient. The current split-clock release remains untrained.
 The user-approved `600湖泊数据/` delivery is versioned here, with large CSVs
 losslessly compressed and stored in Git LFS. Preserve original file bytes and
 update its manifest through `tools/lake600.py` when changing observations.
+After every data change, run `python tools/check_lake600.py` across the entire
+delivery. `pack` runs it automatically, and GitHub runs it for data changes.
+Check coordinates, file inventory, hashes, empty observations and missing dates
+or depths. Compare missingness against `600湖泊数据/missingness_baseline.json`;
+do not refresh that baseline just to silence a failure. Explain and resolve any
+new missing data before publishing. Record coordinate sources and their roles;
+lake reference positions must not be presented as individual sampling stations.
 Keep credentials, private machine configuration, other raw data, databases, model
 weights and experiment logs outside Git. Data-specific training requires its
 own audited manifest, explicit budget and frozen evaluation protocol.

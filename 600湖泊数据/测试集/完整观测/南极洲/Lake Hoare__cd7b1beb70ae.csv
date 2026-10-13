@@ -1,7 +1,7 @@
 ﻿lake_name,Lake Hoare
 lake_ID,CSV:NEW:EDI_KNB_LTER_MCM_88_V22|Hoare
-latitude,
-longtitude,
+latitude,-77.631164550781
+longtitude,162.87287902832
 continent,南极洲
 country,Antarctica
 salinity,0.5 PSU

@@ -1,7 +1,7 @@
 ﻿lake_name,Mirambi
 lake_ID,CSV:UGANDA_CRATER:UG_039
-latitude,
-longtitude,
+latitude,-0.2289
+longtitude,30.106164
 continent,非洲
 country,Uganda
 salinity,4.38E002 mg/L（PANGAEA.983366 环境背景资料；采样日期和深度未注明；不代表每次温深观测的同期盐度）

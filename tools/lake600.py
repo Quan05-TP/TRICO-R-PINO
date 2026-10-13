@@ -4,6 +4,8 @@ import argparse
 import gzip
 import hashlib
 import json
+import subprocess
+import sys
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parents[1] / "600湖泊数据"
@@ -81,6 +83,10 @@ def main():
             finally:
                 temporary.unlink(missing_ok=True)
         print(f"{args.action}: {entry['path']}")
+    if args.action == "pack":
+        subprocess.run(
+            [sys.executable, str(Path(__file__).with_name("check_lake600.py"))], check=True
+        )
 
 
 if __name__ == "__main__":

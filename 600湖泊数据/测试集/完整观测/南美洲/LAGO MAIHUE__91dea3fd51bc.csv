@@ -1,7 +1,7 @@
 ﻿lake_name,LAGO MAIHUE
 lake_ID,CSV:CHILE_DGA_EULA_2021:LAKE_18
-latitude,
-longtitude,
+latitude,-40.266666666667
+longtitude,-72.05
 continent,南美洲
 country,Chile
 salinity,0.5 PSU

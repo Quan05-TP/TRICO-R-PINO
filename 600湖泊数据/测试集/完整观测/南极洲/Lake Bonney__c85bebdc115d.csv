@@ -1,7 +1,7 @@
 ﻿lake_name,Lake Bonney
 lake_ID,CSV:NEW:EDI_KNB_LTER_MCM_88_V22|Bonney
-latitude,
-longtitude,
+latitude,-77.715599060059
+longtitude,162.35400390625
 continent,南极洲
 country,Antarctica
 salinity,东湖盆最大150 PSU；西湖盆最大125 PSU（Roberts等2004表1；非全湖均值）

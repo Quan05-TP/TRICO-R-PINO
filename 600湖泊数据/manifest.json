@@ -2,8 +2,8 @@
   "format_version": 1,
   "source_directory_name": "600湖泊数据",
   "file_count": 611,
-  "original_bytes": 15485071290,
-  "stored_bytes": 757273198,
+  "original_bytes": 15485071740,
+  "stored_bytes": 757273648,
   "gzip_threshold_bytes": 10485760,
   "files": [
     {
@@ -1338,25 +1338,25 @@
       "path": "测试集/完整观测/南极洲/Lake Bonney__c85bebdc115d.csv",
       "stored_path": "测试集/完整观测/南极洲/Lake Bonney__c85bebdc115d.csv",
       "encoding": "identity",
-      "bytes": 4934407,
-      "stored_bytes": 4934407,
-      "sha256": "2629021b5a0e5a194858b910f15a5dba0b03d70d05d2e3230e8b2683266f48b3"
+      "bytes": 4934438,
+      "stored_bytes": 4934438,
+      "sha256": "53d8cfd9b934ba8423d59301a06549793dca6fa4ea5d13152cde7b363801ffc9"
     },
     {
       "path": "测试集/完整观测/南极洲/Lake Hoare__cd7b1beb70ae.csv",
       "stored_path": "测试集/完整观测/南极洲/Lake Hoare__cd7b1beb70ae.csv",
       "encoding": "identity",
-      "bytes": 709702,
-      "stored_bytes": 709702,
-      "sha256": "1526dfcb6b601401935f889f16f19718c48ee9d3d5e803aa8de4696cdccff66a"
+      "bytes": 709733,
+      "stored_bytes": 709733,
+      "sha256": "2ca4d4702b9ef46126f2bbb6f9eab75696c5d52bc43cb1d9d28bec84dd104bdd"
     },
     {
       "path": "测试集/完整观测/南极洲/Lake Miers__42f8279d4564.csv",
       "stored_path": "测试集/完整观测/南极洲/Lake Miers__42f8279d4564.csv",
       "encoding": "identity",
-      "bytes": 132103,
-      "stored_bytes": 132103,
-      "sha256": "ca992792c9033f829239e2d86ba522b906359c6e11ceb11abeff8795e31c3611"
+      "bytes": 132135,
+      "stored_bytes": 132135,
+      "sha256": "1d9a5dc7c252609d18aa977f3e44e1b8ed2b0afa4c8dbcb91de771cfc55e681a"
     },
     {
       "path": "测试集/完整观测/南美洲/Balbina Reservoir__378ce1958e6c.csv",
@@ -1370,9 +1370,9 @@
       "path": "测试集/完整观测/南美洲/LAGO MAIHUE__91dea3fd51bc.csv",
       "stored_path": "测试集/完整观测/南美洲/LAGO MAIHUE__91dea3fd51bc.csv",
       "encoding": "identity",
-      "bytes": 7604,
-      "stored_bytes": 7604,
-      "sha256": "a6168e863db03fdf87c65b8df8e8d09bd4a8dd88128f61baee967c4f409c5390"
+      "bytes": 7626,
+      "stored_bytes": 7626,
+      "sha256": "6a7d6eaa92e7d0db46d6d7e9732536af8cd8471874c764b5930b71f08b9f26f3"
     },
     {
       "path": "测试集/完整观测/南美洲/LAGO PANGUIPULLI__f73f11a7cc2a.csv",
@@ -2346,25 +2346,25 @@
       "path": "测试集/完整观测/非洲/Chibwera__350b66a8b704.csv",
       "stored_path": "测试集/完整观测/非洲/Chibwera__350b66a8b704.csv",
       "encoding": "identity",
-      "bytes": 3083,
-      "stored_bytes": 3083,
-      "sha256": "8dc736d03b2ad794f388fef024ce2a6b3344e95298b85195b72e8727252602da"
+      "bytes": 3101,
+      "stored_bytes": 3101,
+      "sha256": "4ba51c874ca2d5e5265c71fecafd79d3997e07e71c09b43f44af46987983deba"
     },
     {
       "path": "测试集/完整观测/非洲/Kasenda__2eba15bfb234.csv",
       "stored_path": "测试集/完整观测/非洲/Kasenda__2eba15bfb234.csv",
       "encoding": "identity",
-      "bytes": 5699,
-      "stored_bytes": 5699,
-      "sha256": "38166e92fb6ecd444bf5a4c1198807c9e58f898e7f33ad3c1bd5b5652b2be674"
+      "bytes": 5716,
+      "stored_bytes": 5716,
+      "sha256": "d1197cebff35d19bbefbf44b409d51e8737bce333dcfd6ca6ae0bb2a3aa9cc32"
     },
     {
       "path": "测试集/完整观测/非洲/Kifuruka__bdbdb03ada05.csv",
       "stored_path": "测试集/完整观测/非洲/Kifuruka__bdbdb03ada05.csv",
       "encoding": "identity",
-      "bytes": 3002,
-      "stored_bytes": 3002,
-      "sha256": "8ac1b7e4d18d2c6de535ea8095c51eeb69152fb8946006ec198f466be321592c"
+      "bytes": 3017,
+      "stored_bytes": 3017,
+      "sha256": "9f585e6705195bd6e8e619852566d45ad2fe0809148b398d8f687ad4e9d9e59f"
     },
     {
       "path": "测试集/完整观测/非洲/Kivu__2df6d8b284be.csv",
@@ -2378,9 +2378,9 @@
       "path": "测试集/完整观测/非洲/Kyaninga__ca9dd0e841bf.csv",
       "stored_path": "测试集/完整观测/非洲/Kyaninga__ca9dd0e841bf.csv",
       "encoding": "identity",
-      "bytes": 82400,
-      "stored_bytes": 82400,
-      "sha256": "c09001daf9fc54c8fb83fe49137601809309d439024207fead1f7135a2b2df3a"
+      "bytes": 82417,
+      "stored_bytes": 82417,
+      "sha256": "bd911f96adf18221bb572d1fbfcdbcab6ae8d654e9665a4630cd6538ffeffe3d"
     },
     {
       "path": "测试集/完整观测/非洲/Lake Nyos__3dd88e86db5e.csv",
@@ -2394,17 +2394,17 @@
       "path": "测试集/完整观测/非洲/Lugembe__63849f105b1e.csv",
       "stored_path": "测试集/完整观测/非洲/Lugembe__63849f105b1e.csv",
       "encoding": "identity",
-      "bytes": 16092,
-      "stored_bytes": 16092,
-      "sha256": "8638fe52a6cd53fc54d438d31f847d995e068889bf51cfd86640c8e13b132c4e"
+      "bytes": 16109,
+      "stored_bytes": 16109,
+      "sha256": "389a9d6ede8026d554516c5d4775fdec35cec472c60e4b3d6415dd557388d2e5"
     },
     {
       "path": "测试集/完整观测/非洲/Mirambi__79b19c92d21b.csv",
       "stored_path": "测试集/完整观测/非洲/Mirambi__79b19c92d21b.csv",
       "encoding": "identity",
-      "bytes": 2950,
-      "stored_bytes": 2950,
-      "sha256": "2eae11b10b90f5132a829a778e587aae29e40f08d64d7a017b6eb685f60073df"
+      "bytes": 2966,
+      "stored_bytes": 2966,
+      "sha256": "266b052758165ae581fd2c1f15937ec0ed38c0a34d3ba6ccecdcfb324712663b"
     },
     {
       "path": "测试集/完整观测/非洲/Nkugute__4d9660cbccf3.csv",
@@ -2418,17 +2418,17 @@
       "path": "测试集/完整观测/非洲/Nkugute__c4e91ebfd8a7.csv",
       "stored_path": "测试集/完整观测/非洲/Nkugute__c4e91ebfd8a7.csv",
       "encoding": "identity",
-      "bytes": 10305,
-      "stored_bytes": 10305,
-      "sha256": "4c51f2afed428792f2d9c8e83f027f0f63a4e53b675fd7acebfe22642075ec63"
+      "bytes": 10323,
+      "stored_bytes": 10323,
+      "sha256": "dbb78e3ab7fc2224c6b4540854efb149592957a3b20835e40525be0850176947"
     },
     {
       "path": "测试集/完整观测/非洲/Nyabikere__a2cbed1e9b67.csv",
       "stored_path": "测试集/完整观测/非洲/Nyabikere__a2cbed1e9b67.csv",
       "encoding": "identity",
-      "bytes": 32051,
-      "stored_bytes": 32051,
-      "sha256": "eadd9757103906de30a5adac3499297a1df5a0a583bc9244c5cf4261f120d205"
+      "bytes": 32067,
+      "stored_bytes": 32067,
+      "sha256": "e1226053ba1b352a971b991e430caef4762b345ec38e53754e8bbee4da28d25f"
     },
     {
       "path": "测试集/完整观测/非洲/Tanganyika__739e5475de83.csv",
@@ -2482,9 +2482,9 @@
       "path": "训练集/完整观测/亚洲/Agamon Hula__d6e8eb85a2a8.csv",
       "stored_path": "训练集/完整观测/亚洲/Agamon Hula__d6e8eb85a2a8.csv",
       "encoding": "identity",
-      "bytes": 1610756,
-      "stored_bytes": 1610756,
-      "sha256": "b412638a93d016188d2924b63318ddbac7eab1bb047a13628b94914278fbc378"
+      "bytes": 1610780,
+      "stored_bytes": 1610780,
+      "sha256": "d084407b0a12b7928695796aca2d748c5acba9a3c6e84e6de493fbbb614ad837"
     },
     {
       "path": "训练集/完整观测/亚洲/Biwa__fb16461dd6e7.csv",
@@ -2546,9 +2546,9 @@
       "path": "训练集/完整观测/亚洲/旁多水库 _ Pangduo Reservoir__c2e033aeb4cf.csv",
       "stored_path": "训练集/完整观测/亚洲/旁多水库 _ Pangduo Reservoir__c2e033aeb4cf.csv",
       "encoding": "identity",
-      "bytes": 30041,
-      "stored_bytes": 30041,
-      "sha256": "d66e54a61f036fc88235969a10c6e4b3824ff3db25298364a9e1a385f0ba24a5"
+      "bytes": 30055,
+      "stored_bytes": 30055,
+      "sha256": "16baff58bc45c53162e2f0ad330c94253ca0d5000347b4f413821014eab19c6b"
     },
     {
       "path": "训练集/完整观测/亚洲/未命名湖泊_HYL_1372365__be7e929878f6.csv",
@@ -3786,9 +3786,9 @@
       "path": "训练集/完整观测/南极洲/Lake Fryxell__5b67ccee84ee.csv",
       "stored_path": "训练集/完整观测/南极洲/Lake Fryxell__5b67ccee84ee.csv",
       "encoding": "identity",
-      "bytes": 709385,
-      "stored_bytes": 709385,
-      "sha256": "13ac2b24d7162ca934c1ae90dd672fe8fc3433e7f054666f1aead4987768cf11"
+      "bytes": 709416,
+      "stored_bytes": 709416,
+      "sha256": "f524d96286366a21105bf87d263611f7999718ff1c834184806984753642c896"
     },
     {
       "path": "训练集/完整观测/南极洲/Sombre__df8dac46fafe.csv",
@@ -4786,25 +4786,25 @@
       "path": "训练集/完整观测/非洲/Bugwagi__07367d50fbe7.csv",
       "stored_path": "训练集/完整观测/非洲/Bugwagi__07367d50fbe7.csv",
       "encoding": "identity",
-      "bytes": 51184,
-      "stored_bytes": 51184,
-      "sha256": "430db9d4a5847911a83125c63f957b7219e7847edd68a755acca84a93209d097"
+      "bytes": 51200,
+      "stored_bytes": 51200,
+      "sha256": "d2fb70593ae9407375838edf3f5aba1a2a791b30be1dbee8555eaf249e558b54"
     },
     {
       "path": "训练集/完整观测/非洲/Kamweru__4b3953184ca0.csv",
       "stored_path": "训练集/完整观测/非洲/Kamweru__4b3953184ca0.csv",
       "encoding": "identity",
-      "bytes": 7968,
-      "stored_bytes": 7968,
-      "sha256": "0c4b014c596e67db26a74934a6d73399eb63358d2ece750a1f95511d21746025"
+      "bytes": 7986,
+      "stored_bytes": 7986,
+      "sha256": "e73661531eaa7bb0be34ed547d6645976ed71a3d2735ce46be775e43ef76ff75"
     },
     {
       "path": "训练集/完整观测/非洲/Kanyamukali__9290b8b0076b.csv",
       "stored_path": "训练集/完整观测/非洲/Kanyamukali__9290b8b0076b.csv",
       "encoding": "identity",
-      "bytes": 4663,
-      "stored_bytes": 4663,
-      "sha256": "a1d48325bf4370696d61b10ddd8b19042177764d38553713cdf64fd0a9c1da37"
+      "bytes": 4678,
+      "stored_bytes": 4678,
+      "sha256": "774fb800498172723a78ebd8a6fa3f0b0ec103d5a1d7fa5c00b42eadd37e0a63"
     },
     {
       "path": "训练集/完整观测/非洲/Kariba__76d08d75e3eb.csv",
@@ -4818,33 +4818,33 @@
       "path": "训练集/完整观测/非洲/Katanda__ff11553bb424.csv",
       "stored_path": "训练集/完整观测/非洲/Katanda__ff11553bb424.csv",
       "encoding": "identity",
-      "bytes": 65527,
-      "stored_bytes": 65527,
-      "sha256": "2c992d9b554efe1d1ab75d8204afdb5b376b1cffec721466c517a3a89cc54274"
+      "bytes": 65543,
+      "stored_bytes": 65543,
+      "sha256": "78f2b71e047800b3a82368380885c0cc470ea38f27e0da4204b31fe17b55abc0"
     },
     {
       "path": "训练集/完整观测/非洲/Katinda__d37191e5b526.csv",
       "stored_path": "训练集/完整观测/非洲/Katinda__d37191e5b526.csv",
       "encoding": "identity",
-      "bytes": 4159,
-      "stored_bytes": 4159,
-      "sha256": "ffd49dea4d195961ca8c487b018b031ebcd0f3fa91f110b5232a42c7db4b44d0"
+      "bytes": 4177,
+      "stored_bytes": 4177,
+      "sha256": "1a0ce4271c962a78b2e04cbe502bbf348e0ff49ff2a1709a95e661ec3918a26d"
     },
     {
       "path": "训练集/完整观测/非洲/Kyanga__aca2d2ac2a66.csv",
       "stored_path": "训练集/完整观测/非洲/Kyanga__aca2d2ac2a66.csv",
       "encoding": "identity",
-      "bytes": 3872,
-      "stored_bytes": 3872,
-      "sha256": "593015499f11a597384b20d1bbadb453c14e09f19e47dbdb99690e60864d5401"
+      "bytes": 3887,
+      "stored_bytes": 3887,
+      "sha256": "2c8fdb1e83990abcca32d98a84848242affcbf2deccd3a5972e30191d3aee7d8"
     },
     {
       "path": "训练集/完整观测/非洲/Kyerbwato__f78ef32064c6.csv",
       "stored_path": "训练集/完整观测/非洲/Kyerbwato__f78ef32064c6.csv",
       "encoding": "identity",
-      "bytes": 4472,
-      "stored_bytes": 4472,
-      "sha256": "32c88a924ee910cb06e81444d6826ef994a829594ebc11abbf01354b33139d38"
+      "bytes": 4489,
+      "stored_bytes": 4489,
+      "sha256": "b305da4f701ba9828bc4b98aaa401519235001a8a2f919390d04dbdee2ac525c"
     },
     {
       "path": "训练集/完整观测/非洲/Lake Chala__5118e826b5ba.csv",
@@ -4874,9 +4874,9 @@
       "path": "训练集/完整观测/非洲/Wankenzi__61d91bc07fc7.csv",
       "stored_path": "训练集/完整观测/非洲/Wankenzi__61d91bc07fc7.csv",
       "encoding": "identity",
-      "bytes": 10810,
-      "stored_bytes": 10810,
-      "sha256": "522f832a81c18b007fe1bc405f66e0a9dbc260efb604c43aa4628fc21cc9e5b9"
+      "bytes": 10826,
+      "stored_bytes": 10826,
+      "sha256": "0895ae5f12f207b08dd2ecd801a72a0dfa8f8454244fe04155ec264fa5e803af"
     },
     {
       "path": "训练集/湖泊清单.csv",

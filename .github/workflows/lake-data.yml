@@ -1,0 +1,21 @@
+name: Lake data completeness
+
+on:
+  push:
+    paths: ["600湖泊数据/**", "tools/*lake600*.py", ".github/workflows/lake-data.yml"]
+  pull_request:
+    paths: ["600湖泊数据/**", "tools/*lake600*.py", ".github/workflows/lake-data.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  completeness:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          lfs: true
+          persist-credentials: false
+      - run: python3 tools/check_lake600.py

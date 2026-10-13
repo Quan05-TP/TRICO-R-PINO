@@ -1,7 +1,7 @@
 ﻿lake_name,Nkugute
 lake_ID,CSV:UGANDA_CRATER:UG_045
-latitude,
-longtitude,
+latitude,-0.324301
+longtitude,30.098871
 continent,非洲
 country,Uganda
 salinity,7.21E001 mg/L（PANGAEA.983366 环境背景资料；采样日期和深度未注明；不代表每次温深观测的同期盐度）

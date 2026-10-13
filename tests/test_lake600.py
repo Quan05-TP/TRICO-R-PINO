@@ -10,6 +10,8 @@ from tools import lake600
 
 @pytest.mark.parametrize("encoding", ["gzip", "plain"])
 def test_restore_edit_and_repack(tmp_path, monkeypatch, encoding):
+    checks = []
+    monkeypatch.setattr(lake600.subprocess, "run", lambda *a, **k: checks.append((a, k)))
     data = tmp_path / "repo" / "data"
     data.mkdir(parents=True)
     manifest_path = data / "manifest.json"
@@ -37,6 +39,8 @@ def test_restore_edit_and_repack(tmp_path, monkeypatch, encoding):
     monkeypatch.setattr(sys, "argv", ["lake600", "pack", str(working), "--file", entry["path"]])
     lake600.main()
     saved = json.loads(manifest_path.read_text(encoding="utf-8"))
+    assert len(checks) == 1
+    assert checks[0][1]["check"] is True
     assert saved["files"][0]["sha256"] == hashlib.sha256(modified).hexdigest()
     assert saved["original_bytes"] == len(modified)
     assert saved["stored_bytes"] == stored.stat().st_size
