@@ -1,0 +1,185 @@
+{
+  "训练集": {
+    "lakes": 300,
+    "rows": 16766047,
+    "points": 254863303,
+    "valid_rows": 16626922,
+    "valid_days": 124177,
+    "raw_numeric_points": 254869672,
+    "unknown_depth_points": 136012,
+    "undated_points": 645,
+    "rejected_points": 5724,
+    "types": {
+      "类型未核定": 76,
+      "天然湖": 188,
+      "水库": 33,
+      "调控天然湖": 3
+    },
+    "hemispheres": {
+      "北": 271,
+      "南": 29
+    },
+    "coverage": {
+      "春夏秋冬": 229,
+      "夏": 7,
+      "春夏秋": 54,
+      "春冬": 1,
+      "春": 3,
+      "夏秋": 3,
+      "春夏冬": 3
+    },
+    "coverage_counts": {
+      "4": 229,
+      "1": 10,
+      "3": 57,
+      "2": 4
+    },
+    "all_months": 128,
+    "seasons": {
+      "春": {
+        "lakes": 290,
+        "points": 43609149,
+        "valid_days": 28048
+      },
+      "夏": {
+        "lakes": 296,
+        "points": 104290256,
+        "valid_days": 46994
+      },
+      "秋": {
+        "lakes": 286,
+        "points": 88900472,
+        "valid_days": 32249
+      },
+      "冬": {
+        "lakes": 233,
+        "points": 18063426,
+        "valid_days": 16886
+      }
+    }
+  },
+  "测试集": {
+    "lakes": 300,
+    "rows": 17072630,
+    "points": 156600197,
+    "valid_rows": 16985749,
+    "valid_days": 129220,
+    "raw_numeric_points": 156605408,
+    "unknown_depth_points": 86577,
+    "undated_points": 0,
+    "rejected_points": 5211,
+    "types": {
+      "类型未核定": 75,
+      "水库": 33,
+      "天然湖": 188,
+      "调控天然湖": 4
+    },
+    "hemispheres": {
+      "北": 271,
+      "南": 29
+    },
+    "coverage": {
+      "春夏秋": 50,
+      "春夏秋冬": 232,
+      "秋": 1,
+      "春秋冬": 2,
+      "夏": 7,
+      "春夏": 1,
+      "春秋": 1,
+      "夏秋": 4,
+      "春夏冬": 2
+    },
+    "coverage_counts": {
+      "3": 54,
+      "4": 232,
+      "1": 8,
+      "2": 6
+    },
+    "all_months": 124,
+    "seasons": {
+      "春": {
+        "lakes": 288,
+        "points": 24068725,
+        "valid_days": 28910
+      },
+      "夏": {
+        "lakes": 296,
+        "points": 61342328,
+        "valid_days": 47271
+      },
+      "秋": {
+        "lakes": 290,
+        "points": 55941058,
+        "valid_days": 32898
+      },
+      "冬": {
+        "lakes": 236,
+        "points": 15248086,
+        "valid_days": 20141
+      }
+    }
+  },
+  "合计": {
+    "lakes": 600,
+    "rows": 33838677,
+    "points": 411463500,
+    "valid_rows": 33612671,
+    "valid_days": 253397,
+    "raw_numeric_points": 411475080,
+    "unknown_depth_points": 222589,
+    "undated_points": 645,
+    "rejected_points": 10935,
+    "types": {
+      "类型未核定": 151,
+      "水库": 66,
+      "天然湖": 376,
+      "调控天然湖": 7
+    },
+    "hemispheres": {
+      "北": 542,
+      "南": 58
+    },
+    "coverage": {
+      "春夏秋": 104,
+      "春夏秋冬": 461,
+      "秋": 1,
+      "春秋冬": 2,
+      "夏": 14,
+      "春夏": 1,
+      "春秋": 1,
+      "夏秋": 7,
+      "春夏冬": 5,
+      "春冬": 1,
+      "春": 3
+    },
+    "coverage_counts": {
+      "3": 111,
+      "4": 461,
+      "1": 18,
+      "2": 10
+    },
+    "all_months": 252,
+    "seasons": {
+      "春": {
+        "lakes": 578,
+        "points": 67677874,
+        "valid_days": 56958
+      },
+      "夏": {
+        "lakes": 592,
+        "points": 165632584,
+        "valid_days": 94265
+      },
+      "秋": {
+        "lakes": 576,
+        "points": 144841530,
+        "valid_days": 65147
+      },
+      "冬": {
+        "lakes": 469,
+        "points": 33311512,
+        "valid_days": 37027
+      }
+    }
+  }
+}
