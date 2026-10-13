@@ -19,6 +19,9 @@ bound hashes and tests, and require fresh real-data physical qualification.
 Never infer scientific admission from a software test, fixture score or a
 nonzero gradient. The current split-clock release remains untrained.
 
-Keep credentials, private machine configuration, raw data, databases, model
+The user-approved `600湖泊数据/` delivery is versioned here, with large CSVs
+losslessly compressed and stored in Git LFS. Preserve original file bytes and
+update its manifest through `tools/lake600.py` when changing observations.
+Keep credentials, private machine configuration, other raw data, databases, model
 weights and experiment logs outside Git. Data-specific training requires its
 own audited manifest, explicit budget and frozen evaluation protocol.
