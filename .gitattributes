@@ -21,3 +21,8 @@ src/pure_pino/_features/** -text whitespace=cr-at-eol
 # Preserve the delivered data bytes; large CSVs use lossless gzip and Git LFS.
 600湖泊数据/** -text
 600湖泊数据/**/*.gz filter=lfs diff=lfs merge=lfs -text
+
+# Preserve the uploaded Asian lake files and store oversized CSVs in Git LFS.
+亚洲湖泊补充/** -text
+"亚洲湖泊补充/测试集/完整观测/亚洲/Lake Kasumigaura (Nishiura)__201a75d28543.csv" filter=lfs diff=lfs merge=lfs -text
+"亚洲湖泊补充/测试集/完整观测/亚洲/Qiandaohu__b919bbbcd94d.csv" filter=lfs diff=lfs merge=lfs -text
