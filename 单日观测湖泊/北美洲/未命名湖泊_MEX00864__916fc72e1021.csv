@@ -1,0 +1,12 @@
+﻿lake_name,PREA EL PALOTE
+lake_ID,CSV:GEMSTAT_V3:MEX00864
+latitude,21.17327
+longtitude,-101.69003
+continent,北美洲
+country,Mexico
+salinity,228.48 mg/L（TDS中位数；范围228.48–228.48；2013-01-28至2013-01-28；n=1；GEMStat原始记录）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2013-01-28,12:00,,16.7,,,,,,,,,,

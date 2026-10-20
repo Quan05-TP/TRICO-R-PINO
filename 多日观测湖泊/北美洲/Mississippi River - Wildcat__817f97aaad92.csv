@@ -1,0 +1,16 @@
+﻿lake_name,Mississippi River - Wildcat
+lake_ID,MN_DOW:25000700
+latitude,44.610336499904825
+longtitude,-92.63849134855504
+continent,北美洲
+country,United States
+salinity,0.2652 PSU（比电导率按PSS-78/Hill公式换算中位数；范围0.2652—0.2652 PSU；2001-07-25至2001-07-25；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1995-06-12,,,,,19.2,17.5,,,,,,,,,,
+1995-07-13,,,,,25.8,,,,,,,,,,,
+1995-08-23,,,,,24.7,,,,,,,,,,,
+1997-09-25,,,17.1,,,,,,,,,,,,,
+1998-08-05,,,,22.1,,,,,,,,,,,,

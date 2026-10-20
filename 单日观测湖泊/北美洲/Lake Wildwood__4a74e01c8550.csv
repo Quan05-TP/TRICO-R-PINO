@@ -1,0 +1,12 @@
+﻿lake_name,Lake Wildwood
+lake_ID,CSV:EPA_NLA_2012:NLA12_IN-126
+latitude,39.03667912
+longtitude,-85.68019805
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,2.9m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-31,,,27.1,26.34,24.14,21.1,,,,,,,,,,

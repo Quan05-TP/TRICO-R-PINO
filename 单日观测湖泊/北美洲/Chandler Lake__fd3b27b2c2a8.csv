@@ -1,0 +1,12 @@
+﻿lake_name,Chandler Lake
+lake_ID,NHD:nhdhr_132542623
+latitude,43.53613151830752
+longtitude,-95.07530584951915
+continent,北美洲
+country,United States
+salinity,2007：0.1941 PSU；2012：0.1911 PSU；2017：0.1869 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,0.61m/℃,0.91m/℃,1.22m/℃,1.52m/℃,1.83m/℃,2.13m/℃,2.44m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1991-08-15,,,24.1,24.1,24.1,24.1,24.0,24.0,24.0,22.5,20.9,,,,,,,,,,

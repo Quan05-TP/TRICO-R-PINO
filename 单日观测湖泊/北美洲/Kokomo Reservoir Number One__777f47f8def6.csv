@@ -1,0 +1,14 @@
+﻿lake_name,Kokomo Reservoir Number One
+lake_ID,NHD:nhdhr_152100828
+latitude,40.49035917042256
+longtitude,-86.00333048977942
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-03,,,24.8,24.8,24.8,24.7,24.7,24.6,24.2,,,,,,,,,,
+2007-07-03,,,24.8,24.8,24.8,24.7,24.7,24.6,24.2,,,,,,,,,,
+2007-07-03,,,24.8,24.8,24.8,24.7,24.7,24.6,24.2,,,,,,,,,,

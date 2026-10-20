@@ -1,0 +1,12 @@
+﻿lake_name,Fourth Machias Lake
+lake_ID,CSV:HYL_109312
+latitude,45.127611
+longtitude,-67.997826
+continent,北美洲
+country,United States
+salinity,0.007606 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.007606–0.007606 PSU；2007-08-09至2007-08-09，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,3m/℃,3.5m/℃,4m/℃,4.5m/℃,5m/℃,5.5m/℃,6m/℃,6.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-09,,,22.7,22.7,22.7,22.7,22.7,22.7,22.7,22.7,22.5,22.6,22.5,22.5,22.2,22.0,,,,,,,,,,

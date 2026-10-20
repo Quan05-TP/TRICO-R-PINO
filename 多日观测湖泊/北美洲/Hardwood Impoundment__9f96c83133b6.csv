@@ -1,0 +1,18 @@
+﻿lake_name,Hardwood Impoundment
+lake_ID,NHD:nhdhr_75472713
+latitude,45.9906774264521
+longtitude,-87.68204922629002
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-06-06,,,21.71,,,,,,,,,,
+2017-09-02,,,17.61,,,,,,,,,,
+2018-05-16,,,18.23,,,,,,,,,,
+2018-05-25,,,21.68,,,,,,,,,,
+2018-06-07,,,19.75,,,,,,,,,,
+2018-07-27,,,22.73,,,,,,,,,,
+2018-07-28,,,23.02,,,,,,,,,,

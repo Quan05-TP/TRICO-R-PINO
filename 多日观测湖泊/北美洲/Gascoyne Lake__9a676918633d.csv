@@ -1,0 +1,14 @@
+﻿lake_name,Gascoyne Lake
+lake_ID,NHD:nhdhr_131871786
+latitude,46.13407018364558
+longtitude,-103.09523424668228
+continent,北美洲
+country,United States
+salinity,1.04 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.8144–1.14 PSU；2009-05-26至2009-09-16，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.5m/℃,1m/℃,1.6m/℃,2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2009-05-26,,,15.75,15.73,,15.71,,,,,,,,,,
+2009-07-16,,,22.11,22.09,21.85,,,,,,,,,,,
+2009-09-16,,,18.82,18.53,18.19,,,,,,,,,,,

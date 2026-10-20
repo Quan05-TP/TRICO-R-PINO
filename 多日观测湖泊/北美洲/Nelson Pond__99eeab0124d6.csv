@@ -1,0 +1,13 @@
+﻿lake_name,Nelson Pond
+lake_ID,CSV:UNMATCHED_CLUSTER_fa45208e0a8f160f
+latitude,44.4160406
+longtitude,-70.26430126
+continent,北美洲
+country,United States
+salinity,0.005777 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.005708–0.005846 PSU；2012-08-06至2017-07-11，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-06,,,26.6,,26.4,25.8,22.2,15.2,12.9,,,,,,,,,,
+2017-07-11,,,,24.4,24.3,24.1,19.3,13.0,10.8,,,,,,,,,,

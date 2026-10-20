@@ -1,0 +1,13 @@
+﻿lake_name,Kadoka Lake
+lake_ID,NHD:nhdhr_128639889
+latitude,43.82338687974438
+longtitude,-101.56012751806988
+continent,北美洲
+country,United States
+salinity,2007：0.9134 PSU；2012：0.9027 PSU；2017：0.8853 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.42m/℃,0.45m/℃,0.47m/℃,0.54m/℃,0.88m/℃,1.04m/℃,1.89m/℃,1.95m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2014-06-09,,,,16.18,15.94,,16.13,,,16.08,,,,,,,,,,
+2014-07-15,,,22.04,,,21.63,,21.42,21.31,,,,,,,,,,,

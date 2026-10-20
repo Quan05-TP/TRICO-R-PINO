@@ -1,0 +1,15 @@
+﻿lake_name,East Bay Lake
+lake_ID,NHD:nhdhr_a66f3a0c-5f1c-4f6f-a193-22e41ee4d9f7
+latitude,46.20300596682031
+longtitude,-89.40141610118788
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2020-06-02,,,19.9,,,,,,,,,,
+2021-06-04,,,21.01,,,,,,,,,,
+2021-06-16,,,22.58,,,,,,,,,,
+2021-06-21,,,20.34,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿lake_name,Ibamba
+lake_ID,CSV:UGANDA_CRATER:UG_004
+latitude,-0.2
+longtitude,30.2
+continent,非洲
+country,Uganda
+salinity,7.28E001 mg/L（PANGAEA.983366 环境背景资料；采样日期和深度未注明；不代表每次温深观测的同期盐度）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-02-24,14:00,,25.68,24.64,21.93,,,,,,,,,,
+2008-02-19,11:00,,24.58,23.81,20.8,,,,,,,,,,

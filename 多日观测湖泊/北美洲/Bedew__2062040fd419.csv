@@ -1,0 +1,13 @@
+﻿lake_name,Bedew
+lake_ID,MN_DOW:16030000
+latitude,48.05309196951024
+longtitude,-90.6262944422076
+continent,北美洲
+country,United States
+salinity,2007：0.01669 PSU；2012：0.01641 PSU；2017：0.0193 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,1.52m/℃,2.29m/℃,2.44m/℃,3.05m/℃,3.66m/℃,4.27m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1981-07-10,,,19.6,19.2,18.9,16.7,13.6,11.7,,,,,,,,,,
+1981-07-29,,,19.6,19.2,,18.1,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+﻿lake_name,Loch Lomond Lake
+lake_ID,NHD:nhdhr_86165179
+latitude,36.46614841447873
+longtitude,-94.32849451017852
+continent,北美洲
+country,United States
+salinity,0.09893 PSU（比电导率按PSS-78/Hill公式换算中位数；范围0.09413—0.1066 PSU；2015-06-09至2016-05-24；非本CSV逐行同期值）
+lake and reservoir types,reservoir_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2018-06-04,,,27.79,,,,,,,,,,

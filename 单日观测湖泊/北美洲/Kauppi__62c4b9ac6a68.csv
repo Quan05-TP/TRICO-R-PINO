@@ -1,0 +1,12 @@
+﻿lake_name,Kauppi
+lake_ID,MN_DOW:69063100
+latitude,47.14792589050467
+longtitude,-92.45023943185556
+continent,北美洲
+country,United States
+salinity,2007：0.0678 PSU；2012：0.06677 PSU；2017：0.06536 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.13m/℃,2.44m/℃,2.74m/℃,3.05m/℃,3.35m/℃,3.66m/℃,3.96m/℃,4.27m/℃,4.57m/℃,4.88m/℃,5.18m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1992-07-27,,,21.28,20.72,20.39,19.89,19.39,17.89,16.89,15.78,15.28,14.89,14.61,14.28,14.11,13.89,,,,,,,,,,

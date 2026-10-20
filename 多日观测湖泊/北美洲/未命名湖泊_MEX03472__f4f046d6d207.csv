@@ -1,0 +1,15 @@
+﻿lake_name,LAGOON HANSON
+lake_ID,CSV:GEMSTAT_V3:MEX03472
+latitude,32.038671
+longtitude,-115.925624
+continent,北美洲
+country,Mexico
+salinity,2701.04 mg/L（TDS中位数；范围1076.48–4325.6；2013-03-13至2013-05-28；n=2；GEMStat原始记录）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2013-03-13,12:00,,17.9,,,,,,,,,,
+2013-03-13,12:00,,19.9,,,,,,,,,,
+2013-05-28,12:00,,20.6,,,,,,,,,,
+2013-05-28,12:00,,23.5,,,,,,,,,,

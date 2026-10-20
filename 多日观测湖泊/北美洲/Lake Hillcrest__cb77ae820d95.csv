@@ -1,0 +1,14 @@
+﻿lake_name,Lake Hillcrest
+lake_ID,CSV:UNMATCHED_CLUSTER_4219821e46c860a8
+latitude,38.75119
+longtitude,-89.99254
+continent,北美洲
+country,United States
+salinity,0.2004 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.1923–0.2443 PSU；2012-07-24至2017-08-23，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,5.9m/℃,6m/℃,6.5m/℃,6.7m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-07-24,,,31.0,30.6,30.3,29.6,25.7,18.3,,13.4,12.47,,,,,,,,,,,
+2017-06-28,,,25.7,25.6,25.2,24.6,20.6,15.5,,12.7,,11.9,,,,,,,,,,
+2017-08-23,,,27.5,27.5,27.4,26.9,23.3,17.9,14.9,,,,,,,,,,,,,

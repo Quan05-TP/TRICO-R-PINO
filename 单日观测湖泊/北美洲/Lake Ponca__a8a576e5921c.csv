@@ -1,0 +1,12 @@
+﻿lake_name,Lake Ponca
+lake_ID,CSV:HYL_112765
+latitude,36.73591623
+longtitude,-97.03497789
+continent,北美洲
+country,United States
+salinity,0.1–1.5 ppt（WQP站点发布盐度；2008-05-30至2024-10-21；426条；3个站点；来源类型Actual/Calculated；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.2m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5.1m/℃,6m/℃,7m/℃,8m/℃,9m/℃,9.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-09-04,,,28.0,27.86,27.7,27.6,27.35,26.9,24.86,21.64,18.92,16.18,15.86,,,,,,,,,,

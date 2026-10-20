@@ -1,0 +1,12 @@
+﻿lake_name,LAGO CASTOR
+lake_ID,CSV:CHILE_DGA_EULA_2021:LAKE_42
+latitude,-45.591861
+longtitude,-71.770918
+continent,南美洲
+country,Chile
+salinity,0.0381 PSU（智利DGA原始25°C电导率按PSS-78/Hill换算；2019-02-11—2019-02-11；范围0.0380—0.0381 PSU；湖泊元信息汇总）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,20m/℃,40m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2019-02-11,14:38:00,,14.16,12.74,10.76,,,,,,,,,,

@@ -1,0 +1,15 @@
+﻿lake_name,未命名湖泊_FRA01384
+lake_ID,CSV:GEMSTAT_V3:FRA01384
+latitude,48.30056
+longtitude,-2.90264
+continent,欧洲
+country,France
+salinity,0.0984 PSU（法国Eaufrance原始监测电导率按PSS-78/Hill公式换算；2007-03-06—2025-10-08；范围0.0193—0.6344 PSU；非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2010-03-24,12:00,,9.55,,,,,,,,,,
+2010-06-03,12:00,,14.2,,,,,,,,,,
+2010-08-06,12:00,,19.5,,,,,,,,,,
+2010-09-23,12:00,,17.0,,,,,,,,,,

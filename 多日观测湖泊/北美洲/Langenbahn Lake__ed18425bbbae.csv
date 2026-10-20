@@ -1,0 +1,14 @@
+﻿lake_name,Langenbahn Lake
+lake_ID,NHD:nhdhr_155352196
+latitude,41.17259801876618
+longtitude,-86.48233780287237
+continent,北美洲
+country,United States
+salinity,2007：0.1631 PSU；2012：0.1607 PSU；2017：0.1566 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,1.5m/℃,2m/℃,3m/℃,4m/℃,5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1990-08-06,,,,21.5,,21.5,21.0,19.0,,,,,,,,,,,
+1995-08-08,,,27.2,27.2,26.9,26.9,26.0,21.0,18.0,,,,,,,,,,
+1998-08-11,,,26.3,26.2,26.1,24.7,23.9,21.5,,,,,,,,,,,

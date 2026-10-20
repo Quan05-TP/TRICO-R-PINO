@@ -1,0 +1,13 @@
+﻿lake_name,WAYNEWOOD LAKE
+lake_ID,CSV:HYL_1054096
+latitude,41.39491
+longtitude,-75.36279
+continent,北美洲
+country,United States
+salinity,0.03325 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.03325–0.03325 PSU；2017-08-08至2017-08-08，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,9.3m/℃,10m/℃,10.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-08-08,,,22.1,,22.0,22.0,21.9,16.3,11.0,8.4,7.1,6.6,6.4,,6.3,6.2,,,,,,,,,,
+2022-06-27,,,,23.5,23.4,19.8,18.0,13.1,10.0,8.7,7.9,7.4,7.2,7.2,,,,,,,,,,,,

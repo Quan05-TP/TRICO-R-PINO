@@ -1,0 +1,13 @@
+﻿lake_name,SOIL CONSERVATION SERVICE SITE 52 R
+lake_ID,CSV:UNMATCHED_CLUSTER_8935a9d415dd2f93
+latitude,32.09661
+longtitude,-97.03522
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,0.3m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,3m/℃,4m/℃,4.4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-09-12,,,,25.2,,25.2,,25.2,,25.2,25.0,24.6,,,,,,,,,,
+2022-08-10,,,30.9,,30.9,30.9,30.9,30.8,30.6,,,,,,,,,,,,,

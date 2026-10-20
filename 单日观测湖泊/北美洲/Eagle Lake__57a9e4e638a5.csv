@@ -1,0 +1,12 @@
+﻿lake_name,Eagle Lake
+lake_ID,CSV:EPA_NLA_2007:NLA06608-0468
+latitude,39.43240936
+longtitude,-106.6003635
+continent,北美洲
+country,United States
+salinity,0.01187 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.01187–0.01187 PSU；2007-08-01至2007-08-01，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-01,,,14.4,13.8,13.8,12.8,12.3,12.0,11.3,11.0,8.0,7.2,6.9,6.7,6.6,6.5,,,,,,,,,,

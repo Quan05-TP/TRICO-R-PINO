@@ -1,0 +1,12 @@
+﻿lake_name,LAKE MONTROSE
+lake_ID,CSV:HYL_1052824
+latitude,41.84192
+longtitude,-75.85655
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,10.4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2022-06-29,,,23.4,23.4,22.7,20.3,13.4,9.1,7.6,6.6,6.0,5.6,5.5,5.5,,,,,,,,,,

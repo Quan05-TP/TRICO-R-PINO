@@ -1,0 +1,16 @@
+﻿lake_name,未命名湖泊_nhdhr_75472799
+lake_ID,NHD:nhdhr_75472799
+latitude,45.96769084787681
+longtitude,-88.01423308733385
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-05-27,,,18.21,,,,,,,,,,
+2017-06-15,,,23.6,,,,,,,,,,
+2017-07-25,,,24.62,,,,,,,,,,
+2017-07-30,,,25.64,,,,,,,,,,
+2017-08-15,,,22.37,,,,,,,,,,

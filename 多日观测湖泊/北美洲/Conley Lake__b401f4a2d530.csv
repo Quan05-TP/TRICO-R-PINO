@@ -1,0 +1,14 @@
+﻿lake_name,Conley Lake
+lake_ID,NHD:nhdhr_34134368
+latitude,44.75321982261895
+longtitude,-92.8429138042208
+continent,北美洲
+country,United States
+salinity,0.277256 PSU（电导率换算中位数；范围0.257372–0.297598 PSU；分层中位数[PSU]：0.2m:0.270674；0.3m:0.278712；0.6m:0.297598；0.7m:0.270535；1m:0.291457；1.1m:0.25958；1.2m:0.291906；2.1m:0.270286；2.5m:0.293403）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2018-08-20,,,25.84,,,,,,,,,,
+2018-08-21,,,24.15,,,,,,,,,,
+2018-08-23,,,24.28,,,,,,,,,,

@@ -1,0 +1,15 @@
+﻿lake_name,Little Muskie Lake
+lake_ID,WI_WBIC:1542100
+latitude,45.920857354495865
+longtitude,-89.6996400579805
+continent,北美洲
+country,United States
+salinity,2007：0.02913 PSU；2012：0.02873 PSU；2017：0.02812 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,3.05m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2004-01-28,,,3.89,,,,,,,,,,
+2004-02-11,,,5.0,,,,,,,,,,
+2004-02-17,,,3.33,,,,,,,,,,
+2004-02-18,,,3.89,,,,,,,,,,

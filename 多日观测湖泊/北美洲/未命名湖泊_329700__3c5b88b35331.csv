@@ -1,0 +1,13 @@
+﻿lake_name,Hemlock Lake
+lake_ID,WI_WBIC:329700
+latitude,44.98272051198132
+longtitude,-88.93593328588949
+continent,北美洲
+country,United States
+salinity,2007：0.04553 PSU；2012：0.04483 PSU；2017：0.04383 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.5m/℃,0.51m/℃,1.02m/℃,2m/℃,2.02m/℃,2.98m/℃,3.04m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-02-16,,,0.83,,3.17,4.17,,,4.56,,,,,,,,,,
+2014-03-12,,,,0.06,1.78,,4.0,4.5,,,,,,,,,,,

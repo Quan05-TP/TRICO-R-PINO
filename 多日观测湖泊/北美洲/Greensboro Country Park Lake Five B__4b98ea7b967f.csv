@@ -1,0 +1,13 @@
+﻿lake_name,Greensboro Country Park Lake Five B
+lake_ID,CSV:EPA_NLA_2012:NLA12_NC-116
+latitude,36.12929344
+longtitude,-79.83690419
+continent,北美洲
+country,United States
+salinity,0.03268 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.02989–0.03546 PSU；2012-06-06至2012-08-18，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.3m/℃,2.4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-06-06,,,23.5,23.5,23.5,23.4,23.1,,22.7,,,,,,,,,,
+2012-08-18,,,27.0,26.9,26.8,26.7,26.4,26.2,,,,,,,,,,,

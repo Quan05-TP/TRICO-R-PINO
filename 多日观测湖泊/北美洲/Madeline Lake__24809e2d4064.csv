@@ -1,0 +1,14 @@
+﻿lake_name,Madeline Lake
+lake_ID,WI_WBIC:1544700
+latitude,45.89465877356951
+longtitude,-89.6431850023769
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,0.61m/℃,0.91m/℃,1.22m/℃,1.83m/℃,2.44m/℃,2.74m/℃,3.05m/℃,4.57m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1993-10-23,,,,7.78,,7.78,,,,6.67,,6.11,,,,,,,,,,
+2007-05-03,,,11.67,,,,,,,,,,,,,,,,,,,
+2017-07-19,,,,,25.67,,25.11,24.56,24.39,,23.78,,,,,,,,,,,

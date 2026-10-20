@@ -1,0 +1,12 @@
+﻿lake_name,Lake Mary
+lake_ID,CSV:EPA_NLA_2012:NLA12_UT-203
+latitude,40.58885713
+longtitude,-111.5899784
+continent,北美洲
+country,United States
+salinity,0–0.01 ppth（WQP站点发布盐度；2002-07-31至2004-09-01；12条；1个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,10.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-07-23,,,17.1,16.9,16.8,16.7,16.7,15.6,12.1,9.5,7.8,6.62,6.0,6.0,,,,,,,,,,

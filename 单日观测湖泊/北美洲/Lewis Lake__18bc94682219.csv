@@ -1,0 +1,12 @@
+﻿lake_name,Lewis Lake
+lake_ID,CSV:HYL_1019535
+latitude,46.98630288
+longtitude,-122.5690307
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-29,,,20.4,20.2,20.0,19.9,19.7,,,,,,,,,,

@@ -1,0 +1,14 @@
+﻿lake_name,Round
+lake_ID,MN_DOW:69004800
+latitude,47.48137534973562
+longtitude,-91.80991891998993
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,0.61m/℃,0.91m/℃,1.22m/℃,1.52m/℃,1.83m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1981-09-03,,,16.67,,,,,,,,,,,,,,,,
+1986-07-05,,,24.44,21.67,21.11,20.56,20.28,20.0,20.0,,,,,,,,,,
+1986-08-06,,,24.44,,,,,,,,,,,,,,,,

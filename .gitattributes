@@ -26,3 +26,11 @@ src/pure_pino/_features/** -text whitespace=cr-at-eol
 亚洲湖泊补充/** -text
 "亚洲湖泊补充/测试集/完整观测/亚洲/Lake Kasumigaura (Nishiura)__201a75d28543.csv" filter=lfs diff=lfs merge=lfs -text
 "亚洲湖泊补充/测试集/完整观测/亚洲/Qiandaohu__b919bbbcd94d.csv" filter=lfs diff=lfs merge=lfs -text
+
+# Preserve observation bytes; large CSVs use lossless gzip and Git LFS.
+单日观测湖泊/** -text
+单日观测湖泊/**/*.gz filter=lfs diff=lfs merge=lfs -text
+多日观测湖泊/** -text
+多日观测湖泊/**/*.gz filter=lfs diff=lfs merge=lfs -text
+特殊湖泊统计/** -text
+特殊湖泊统计/**/*.gz filter=lfs diff=lfs merge=lfs -text

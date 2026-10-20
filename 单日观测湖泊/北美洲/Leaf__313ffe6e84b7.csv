@@ -1,0 +1,12 @@
+﻿lake_name,Leaf
+lake_ID,MN_DOW:69061000
+latitude,47.47038744386506
+longtitude,-92.4299049927038
+continent,北美洲
+country,United States
+salinity,2007：0.06569 PSU；2012：0.06471 PSU；2017：0.06334 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1.52m/℃,3.05m/℃,3.66m/℃,3.96m/℃,4.27m/℃,4.57m/℃,4.88m/℃,5.49m/℃,6.1m/℃,7.32m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1981-06-29,,,22.22,20.56,18.89,17.22,16.11,15.0,12.78,11.67,10.0,8.89,7.78,,,,,,,,,,

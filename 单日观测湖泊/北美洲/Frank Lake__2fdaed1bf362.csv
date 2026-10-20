@@ -1,0 +1,12 @@
+﻿lake_name,Frank Lake
+lake_ID,WI_WBIC:985900
+latitude,46.033675135437015
+longtitude,-89.55385404582357
+continent,北美洲
+country,United States
+salinity,2007：0.01229 PSU；2012：0.01208 PSU；2017：0.01178 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.66m/℃,4.57m/℃,5.49m/℃,6.4m/℃,7.32m/℃,8.23m/℃,9.14m/℃,10.06m/℃,10.97m/℃,11.89m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2021-06-16,,,23.06,22.67,22.56,21.39,16.17,13.06,11.11,10.06,9.17,8.56,8.06,7.83,7.78,7.72,,,,,,,,,,

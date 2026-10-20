@@ -1,0 +1,12 @@
+﻿lake_name,Quinebaug Pond
+lake_ID,CSV:HYL_1053016
+latitude,41.77454096
+longtitude,-71.88798099
+continent,北美洲
+country,United States
+salinity,0.08–0.08 PSU（WQP站点发布盐度；2014-09-03至2014-09-03；10条；1个站点；来源类型Calculated；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,8.7m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-07-17,,,28.7,28.6,28.6,28.3,27.5,23.3,18.8,15.6,13.6,13.0,,,,,,,,,,

@@ -1,0 +1,12 @@
+﻿lake_name,Lake Seminole
+lake_ID,CSV:EPA_NLA_2007:NLA06608-1185
+latitude,27.84728979
+longtitude,-82.77867302
+continent,北美洲
+country,United States
+salinity,0.02–1.54 ppth（WQP站点发布盐度；1999-08-25至2025-03-04；1042条；306个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）；0.24–0.35 0/00（WQP站点发布盐度；2006-04-10至2006-10-25；8条；3个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）；0.28–0.3 ppt（WQP站点发布盐度；2013-02-11至2013-03-13；11条；4个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,1.9m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-16,,,30.6,30.3,30.0,,,,,,,,,,

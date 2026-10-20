@@ -1,0 +1,12 @@
+﻿lake_name,Yakutia survey lake 05-Yak-30
+lake_ID,CSV:RUS_YAKUTIA_SURVEY_LAKE_05_YAK_30
+latitude,61.96692
+longtitude,129.41422
+continent,亚洲
+country,Russia
+salinity,63 mg/L（文献矿化度均值；范围41–78 mg/L；2016–2019年春季；51份样品）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2005-07-26,13:00:00,,16.8,,,,,,,,,,

@@ -1,0 +1,14 @@
+﻿lake_name,Lake Stockwell-19
+lake_ID,CSV:UNMATCHED_CLUSTER_18526fee55f2764c
+latitude,39.84948
+longtitude,-74.78729
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.5m/℃,1m/℃,1.5m/℃,1.6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-09-25,,,19.18,,19.13,19.05,18.86,18.86,,,,,,,,,,
+2017-09-20,,,,22.67,22.61,22.44,22.27,,,,,,,,,,,
+2017-09-20,,,,22.66,,,,,,,,,,,,,,

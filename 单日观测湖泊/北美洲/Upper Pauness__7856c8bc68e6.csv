@@ -1,0 +1,13 @@
+﻿lake_name,Upper Pauness
+lake_ID,MN_DOW:69046500
+latitude,48.19154018396623
+longtitude,-92.25644499200492
+continent,北美洲
+country,United States
+salinity,2007：0.02944 PSU；2012：0.02898 PSU；2017：0.02832 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2005-06-20,,,26.0,25.3,21.1,17.3,16.8,,,,,,,,,,
+2005-06-20,,,26.0,25.28,21.11,17.28,16.78,,,,,,,,,,

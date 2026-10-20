@@ -1,0 +1,15 @@
+﻿lake_name,未命名湖泊_nhdhr_4b1a725a-f5ba-46bf-90f2-65d1c8341a66
+lake_ID,NHD:nhdhr_4b1a725a-f5ba-46bf-90f2-65d1c8341a66
+latitude,35.20794695723842
+longtitude,-94.20615578239249
+continent,北美洲
+country,United States
+salinity,0.03561 PSU（比电导率按PSS-78/Hill公式换算中位数；范围0.02965—0.04376 PSU；2020-08-03至2023-02-21；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2021-03-09,,,14.01,,,,,,,,,,
+2021-03-11,,,14.99,,,,,,,,,,
+2021-05-26,,,29.63,,,,,,,,,,
+2021-06-06,,,24.71,,,,,,,,,,

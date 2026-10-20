@@ -1,0 +1,13 @@
+﻿lake_name,Twin Lakes
+lake_ID,WI_WBIC:1015300
+latitude,44.63737446433431
+longtitude,-89.4157808515725
+continent,北美洲
+country,United States
+salinity,2007：0.08516 PSU；2012：0.08386 PSU；2017：0.082 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,0.61m/℃,0.91m/℃,1.22m/℃,1.52m/℃,1.83m/℃,2.13m/℃,2.44m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2020-07-23,,,,,24.8,,,24.0,,24.0,,,,,,,,,,
+2021-09-22,,,19.56,19.61,19.56,19.28,19.11,18.94,18.94,,,,,,,,,,,

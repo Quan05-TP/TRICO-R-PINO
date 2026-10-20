@@ -1,0 +1,12 @@
+﻿lake_name,Manassas
+lake_ID,CSV:HYL_112427
+latitude,38.77124892
+longtitude,-77.64555522
+continent,北美洲
+country,United States
+salinity,0.07226 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.06249–0.08204 PSU；1992-09-17至2007-07-11，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,14m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-11,,,29.3,29.0,28.9,27.5,25.2,23.4,20.3,15.8,12.8,11.6,10.6,10.2,10.0,9.9,9.9,9.8,,,,,,,,,,

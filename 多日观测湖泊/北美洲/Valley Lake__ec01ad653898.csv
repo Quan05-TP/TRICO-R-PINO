@@ -1,0 +1,14 @@
+﻿lake_name,Valley Lake
+lake_ID,NHD:nhdhr_109984110
+latitude,42.34896667696756
+longtitude,-87.98280360035591
+continent,北美洲
+country,United States
+salinity,2007：0.586 PSU；2012：0.577 PSU；2017：0.5641 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,3.05m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-07-11,,,,25.3,,,,,,,,,,
+2020-09-22,,,19.83,,,,,,,,,,,
+2021-04-27,,,16.83,,,,,,,,,,,

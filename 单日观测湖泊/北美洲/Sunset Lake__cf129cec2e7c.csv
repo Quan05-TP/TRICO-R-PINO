@@ -1,0 +1,12 @@
+﻿lake_name,Sunset Lake
+lake_ID,CSV:EPA_NLA_2012:NLA12_OR-167
+latitude,46.10040452
+longtitude,-123.9286129
+continent,北美洲
+country,United States
+salinity,0.1–0.1 ppth（WQP站点发布盐度；2003-06-24至2003-11-19；4条；1个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.13m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-09-19,,,17.0,17.0,16.9,16.7,16.4,16.4,,,,,,,,,,

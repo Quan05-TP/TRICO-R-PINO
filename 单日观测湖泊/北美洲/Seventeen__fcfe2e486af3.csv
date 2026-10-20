@@ -1,0 +1,12 @@
+﻿lake_name,Seventeen
+lake_ID,MN_DOW:30005900
+latitude,45.69373247773644
+longtitude,-93.24021871024031
+continent,北美洲
+country,United States
+salinity,2007：0.08228 PSU；2012：0.08138 PSU；2017：0.0793 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.91m/℃,1.22m/℃,1.52m/℃,1.83m/℃,2.44m/℃,2.74m/℃,3.35m/℃,3.66m/℃,4.27m/℃,4.57m/℃,5.18m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2014-02-20,,,1.8,2.8,3.0,3.2,3.4,3.7,3.6,3.8,3.6,4.0,4.0,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿lake_name,Laguna Verde
+lake_ID,CSV:CHILE_DGA_EULA_2021:LAKE_35
+latitude,-45.537085
+longtitude,-72.016454
+continent,南美洲
+country,Chile
+salinity,0.0402 PSU（智利DGA原始25°C电导率按PSS-78/Hill换算；2018-01-31—2019-02-12；范围0.0391—0.0414 PSU；湖泊元信息汇总）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,15m/℃,深度未确定/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2018-01-31,14:15:00,,14.43,14.42,,,,,,,,,,,
+2019-02-12,16:07:00,,14.09,13.71,,,,,,,,,,,

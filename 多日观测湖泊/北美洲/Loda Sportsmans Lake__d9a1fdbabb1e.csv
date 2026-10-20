@@ -1,0 +1,13 @@
+﻿lake_name,Loda Sportsmans Lake
+lake_ID,CSV:UNMATCHED_CLUSTER_37e54d757eecb3e9
+latitude,40.48022
+longtitude,-88.103
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-06-26,,,26.1,26.1,26.1,24.6,19.0,,,,,,,,,,,
+2017-06-07,,,23.4,23.5,23.4,22.5,19.5,19.1,,,,,,,,,,

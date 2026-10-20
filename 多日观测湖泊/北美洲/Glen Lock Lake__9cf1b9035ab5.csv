@@ -1,0 +1,15 @@
+﻿lake_name,Glen Lock Lake
+lake_ID,WI_WBIC:2151000
+latitude,44.96198992665465
+longtitude,-91.4000613452238
+continent,北美洲
+country,United States
+salinity,2007：0.03593 PSU；2012：0.03541 PSU；2017：0.03468 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,2m/℃,3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1991-03-14,,,0.5,2.0,,,,,,,,,,,
+1991-06-24,,,21.0,,18.0,,,,,,,,,,
+1991-07-30,,,17.0,,16.0,,,,,,,,,,
+1991-08-26,,,24.0,,17.8,,,,,,,,,,

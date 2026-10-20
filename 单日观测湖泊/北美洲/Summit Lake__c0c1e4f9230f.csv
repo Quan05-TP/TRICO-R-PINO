@@ -1,0 +1,12 @@
+﻿lake_name,Summit Lake
+lake_ID,NHD:nhdhr_123148008
+latitude,46.25684526588169
+longtitude,-89.625697579281
+continent,北美洲
+country,United States
+salinity,2007：0.01619 PSU；2012：0.01592 PSU；2017：0.01554 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,3m/℃,3.5m/℃,4m/℃,4.5m/℃,5m/℃,5.5m/℃,6m/℃,6.5m/℃,7m/℃,7.5m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,14m/℃,15m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2016-06-23,,,22.4,22.4,22.3,22.2,20.8,16.9,13.3,10.8,9.7,8.8,8.0,7.6,7.2,6.7,6.3,6.2,6.0,5.9,5.8,5.8,5.9,5.9,5.9,6.0,,,,,,,,,,

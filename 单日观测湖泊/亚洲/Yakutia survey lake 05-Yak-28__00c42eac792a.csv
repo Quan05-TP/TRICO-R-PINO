@@ -1,0 +1,12 @@
+﻿lake_name,Yakutia survey lake 05-Yak-28
+lake_ID,CSV:RUS_YAKUTIA_SURVEY_LAKE_05_YAK_28
+latitude,61.93997
+longtitude,132.1655
+continent,亚洲
+country,Russia
+salinity,表层1.0；4 m层2.1（2005-07-24；PANGAEA原始Sal，原表未标单位）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2005-07-24,19:00:00,,23.8,12.0,,,,,,,,,,

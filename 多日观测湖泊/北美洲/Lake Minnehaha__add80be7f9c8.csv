@@ -1,0 +1,13 @@
+﻿lake_name,Lake Minnehaha
+lake_ID,CSV:HYL_1067968
+latitude,28.63214149
+longtitude,-81.35520745
+continent,北美洲
+country,United States
+salinity,0.09–0.12 ppth（WQP站点发布盐度；2017-04-04至2024-11-12；29条；2个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,2.6m/℃,3m/℃,4m/℃,5m/℃,6m/℃,6.2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-23,,,31.3,31.3,31.2,31.1,,,,,,,,,,,,,,,
+2012-05-19,,,28.6,28.5,28.5,,25.6,24.4,22.4,21.0,21.0,,,,,,,,,,

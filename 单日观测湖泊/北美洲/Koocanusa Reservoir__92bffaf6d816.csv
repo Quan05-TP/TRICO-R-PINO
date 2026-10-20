@@ -1,0 +1,12 @@
+﻿lake_name,Koocanusa Reservoir
+lake_ID,CSV:HYL_715
+latitude,48.54139505
+longtitude,-115.2253416
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,2m/℃,4m/℃,6m/℃,8m/℃,10m/℃,12m/℃,14m/℃,16m/℃,18m/℃,20m/℃,22m/℃,24m/℃,26m/℃,28m/℃,30m/℃,32m/℃,34m/℃,36m/℃,38m/℃,40m/℃,42m/℃,44m/℃,46m/℃,48m/℃,48.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-18,,,22.9,22.5,22.4,21.9,18.9,18.1,15.8,13.9,13.3,13.0,12.8,12.5,12.1,11.6,11.2,10.8,10.4,10.2,9.8,9.6,9.2,8.9,8.4,8.0,7.7,7.5,,,,,,,,,,

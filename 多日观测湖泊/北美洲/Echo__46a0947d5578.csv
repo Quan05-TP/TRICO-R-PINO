@@ -1,0 +1,15 @@
+﻿lake_name,Echo
+lake_ID,MN_DOW:21015700
+latitude,45.813943878830216
+longtitude,-95.54714119599718
+continent,北美洲
+country,United States
+salinity,2007：0.1979 PSU；2012：0.1951 PSU；2017：0.1908 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2011-08-21,,,23.4,,,,,,,,,,
+2011-08-21,,,23.4,,,,,,,,,,
+2011-09-11,,,23.4,,,,,,,,,,
+2011-09-11,,,23.4,,,,,,,,,,

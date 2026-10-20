@@ -1,0 +1,13 @@
+﻿lake_name,Killarney Lake
+lake_ID,CSV:HYL_105368
+latitude,47.51724168
+longtitude,-116.5654143
+continent,北美洲
+country,United States
+salinity,0.02749 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.01883–0.02893 PSU；1991-08-06至2012-07-13，3个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.11m/℃,1m/℃,1.56m/℃,2m/℃,2.58m/℃,2.59m/℃,3m/℃,3.56m/℃,4m/℃,4.52m/℃,5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-23,,,26.5,,26.3,,25.3,,,24.6,,24.1,,23.6,,,,,,,,,,
+2012-07-13,,,25.54,25.51,,24.84,,21.33,21.31,,18.87,,17.07,,,,,,,,,,,

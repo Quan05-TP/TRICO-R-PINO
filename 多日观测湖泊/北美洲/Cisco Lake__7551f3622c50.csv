@@ -1,0 +1,13 @@
+﻿lake_name,Cisco Lake
+lake_ID,NHD:nhdhr_e170924c-4133-4c8e-8883-f6d0d6e6766b
+latitude,46.24013429913386
+longtitude,-89.44664376856599
+continent,北美洲
+country,United States
+salinity,0.04117 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.03662–0.04573 PSU；2008-05-05至2008-08-12，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.61m/℃,1.22m/℃,1.83m/℃,2.44m/℃,3.05m/℃,3.66m/℃,4.27m/℃,4.88m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2008-05-05,,,6.5,6.5,6.5,6.5,6.5,6.0,6.0,6.0,,,,,,,,,,
+2008-08-12,,,22.5,22.5,22.5,22.0,22.0,21.5,21.5,21.0,,,,,,,,,,

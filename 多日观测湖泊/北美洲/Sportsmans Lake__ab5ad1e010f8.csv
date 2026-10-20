@@ -1,0 +1,13 @@
+﻿lake_name,Sportsmans Lake
+lake_ID,CSV:HYL_990764
+latitude,48.56842531
+longtitude,-123.0735207
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.3m/℃,2.4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-15,,,22.8,22.9,22.9,22.8,22.9,,22.9,,,,,,,,,,
+2012-09-19,,,18.8,18.8,18.8,18.8,18.8,18.8,,,,,,,,,,,

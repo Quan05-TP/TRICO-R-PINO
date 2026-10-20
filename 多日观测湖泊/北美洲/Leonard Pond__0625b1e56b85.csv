@@ -1,0 +1,13 @@
+﻿lake_name,Leonard Pond
+lake_ID,CSV:EPA_NLA_2012:NLA12_MD-105
+latitude,38.42355954
+longtitude,-75.56048462
+continent,北美洲
+country,United States
+salinity,0–0.1 ppth（WQP站点发布盐度；2002-10-02至2003-09-24；78条；3个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）；0–0.1 ppt（WQP站点发布盐度；2024-04-08至2025-10-21；610条；7个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.1m/℃,1.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-06-28,,,26.3,26.3,25.9,,25.9,,,,,,,,,,
+2012-08-16,,,27.6,27.5,27.5,27.5,,,,,,,,,,,

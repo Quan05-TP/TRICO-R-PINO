@@ -1,0 +1,15 @@
+﻿lake_name,Jeziorak
+lake_ID,LOCAL:HYL_13456:Jeziorak
+latitude,53.676
+longtitude,19.62456
+continent,欧洲
+country,Poland
+salinity,0.1913 PSU（电导率按PSS-78/Hill公式换算；GIOŚ 2023—2023年年度平均电导率换算结果；范围0.1913—0.1913 PSU；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes | reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2014-04-14,12:00,,9.8,,,,,,,,,,
+2014-06-12,12:00,,23.3,,,,,,,,,,
+2014-08-11,12:00,,24.2,,,,,,,,,,
+2014-10-13,12:00,,14.1,,,,,,,,,,

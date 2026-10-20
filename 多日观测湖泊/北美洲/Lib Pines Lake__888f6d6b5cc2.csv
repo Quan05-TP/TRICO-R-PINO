@@ -1,0 +1,14 @@
+﻿lake_name,Lib Pines Lake
+lake_ID,CSV:HYL_828
+latitude,33.46314
+longtitude,-80.38935
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.3m/℃,5m/℃,6m/℃,7m/℃,8m/℃,8.8m/℃,9m/℃,9.4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-13,,,30.7,30.4,29.0,28.9,28.8,28.8,,,,,,,,,,,,,,,,,
+2017-07-11,,,29.1,29.1,29.1,29.1,29.1,,29.1,29.1,29.1,29.1,,28.5,28.3,,,,,,,,,,
+2017-09-19,,,28.1,27.5,26.4,26.2,25.5,,24.2,23.7,22.9,22.5,22.5,,,,,,,,,,,,

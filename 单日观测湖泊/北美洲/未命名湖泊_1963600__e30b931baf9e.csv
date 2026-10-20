@@ -1,0 +1,14 @@
+﻿lake_name,未命名湖泊_1963600
+lake_ID,WI_WBIC:1963600
+latitude,45.67086385049649
+longtitude,-91.55371720136075
+continent,北美洲
+country,United States
+salinity,0.008602 PSU（比电导率按PSS-78/Hill公式换算中位数；范围0.008367—0.03321 PSU；2017-07-12至2017-07-12；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched | unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-07-12,,,25.0,24.9,24.8,22.1,15.5,12.7,,,,,,,,,,
+2017-07-12,,,24.8,,,,,,,,,,,,,,,
+2017-07-12,,,24.9,24.9,24.8,22.1,15.5,12.7,,,,,,,,,,

@@ -1,0 +1,17 @@
+﻿lake_name,Lake Charley
+lake_ID,NHD:nhdhr_58125215
+latitude,45.94548667696071
+longtitude,-95.40645745581584
+continent,北美洲
+country,United States
+salinity,2007：0.1752 PSU；2012：0.1729 PSU；2017：0.1698 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2011-09-08,,,22.2,,,,,,,,,,
+2011-09-08,,,22.2,,,,,,,,,,
+2012-06-12,,,21.1,,,,,,,,,,
+2012-06-12,,,21.1,,,,,,,,,,
+2012-06-21,,,20.0,,,,,,,,,,
+2012-06-21,,,20.0,,,,,,,,,,

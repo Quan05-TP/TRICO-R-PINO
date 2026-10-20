@@ -1,0 +1,14 @@
+﻿lake_name,Seeley Lake
+lake_ID,WI_WBIC:1275500
+latitude,43.43199936167273
+longtitude,-89.86844727997858
+continent,北美洲
+country,United States
+salinity,2007：0.1532 PSU；2012：0.1513 PSU；2017：0.1481 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,1.07m/℃,2.13m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-04,,,26.0,,19.89,,,,,,,,,,
+2009-08-06,,,24.0,23.5,,,,,,,,,,,
+2009-08-06,,,24.0,23.5,,,,,,,,,,,

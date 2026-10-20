@@ -1,0 +1,12 @@
+﻿lake_name,Cane Creek Lake
+lake_ID,NHD:nhdhr_7ce3c33b-ace5-4c1a-96bc-31ef1e50cd70
+latitude,33.930615884876794
+longtitude,-91.7710579325354
+continent,北美洲
+country,United States
+salinity,0.029721 PSU
+lake and reservoir types,reservoir_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2019-06-01,,,32.15,,,,,,,,,,

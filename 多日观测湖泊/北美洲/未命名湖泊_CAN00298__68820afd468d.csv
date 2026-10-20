@@ -1,0 +1,18 @@
+﻿lake_name,French Lake
+lake_ID,CSV:GEMSTAT_V3:CAN00298
+latitude,46.7278
+longtitude,-60.8653
+continent,北美洲
+country,Canada
+salinity,0.07782 PSU（GEMStat比电导率经PSS-78/Hill换算的中位数；范围0.009263–0.1361 PSU；2006-10-21至2019-06-14；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2008-10-10,13:15,,9.0,,,,,,,,,,
+2010-05-13,14:20,,6.2,,,,,,,,,,
+2011-06-13,17:00,,14.2,,,,,,,,,,
+2011-10-14,11:05,,12.3,,,,,,,,,,
+2012-10-30,12:00,,9.6,,,,,,,,,,
+2013-05-19,14:45,,7.6,,,,,,,,,,
+2013-10-21,15:30,,8.7,,,,,,,,,,

@@ -1,0 +1,14 @@
+﻿lake_name,Lake Henry
+lake_ID,CSV:UNMATCHED_CLUSTER_414c4cd5b6d575ca
+latitude,32.63901
+longtitude,-83.96636
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.3m/℃,2.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-06-13,,,28.27,,,26.92,,25.1,,24.76,,,,,,,,,,
+2017-06-20,,,,29.13,29.03,27.7,26.26,24.65,24.02,,,,,,,,,,,
+2017-07-25,,,,30.98,30.98,30.98,30.95,30.71,30.13,,,,,,,,,,,

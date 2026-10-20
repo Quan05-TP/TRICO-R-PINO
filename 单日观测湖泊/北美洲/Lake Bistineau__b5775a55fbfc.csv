@@ -1,0 +1,13 @@
+﻿lake_name,Lake Bistineau
+lake_ID,NHD:nhdhr_30d7a91e-d7dc-4b8e-8477-ccd49fb471ce
+latitude,32.406634563471776
+longtitude,-93.39054633336268
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source | reservoir_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-26,,,33.1,31.2,30.6,29.9,27.3,26.9,,,,,,,,,,
+2007-08-26,,,33.1,31.2,30.6,29.9,27.3,26.9,,,,,,,,,,

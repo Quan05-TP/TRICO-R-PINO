@@ -1,0 +1,13 @@
+﻿lake_name,Cottonwood Lake
+lake_ID,NHD:nhdhr_127739975
+latitude,42.41084460661779
+longtitude,-101.7007304143536
+continent,北美洲
+country,United States
+salinity,0.137738 PSU（电导率换算中位数；范围0.129841–0.145636 PSU）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.1m/℃,1.2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-18,,,24.7,24.6,24.6,,24.4,,,,,,,,,,
+2007-07-30,,,24.1,24.1,,24.0,,,,,,,,,,,

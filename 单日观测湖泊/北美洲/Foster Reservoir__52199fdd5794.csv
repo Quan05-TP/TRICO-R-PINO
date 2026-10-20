@@ -1,0 +1,12 @@
+﻿lake_name,Foster Reservoir
+lake_ID,CSV:EPA_NLA_2007:NLA06608-3313
+latitude,42.12319331
+longtitude,-111.8362486
+continent,北美洲
+country,United States
+salinity,0.1158 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.1158–0.1158 PSU；2007-08-16至2007-08-16，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,3.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-16,,,22.9,22.8,22.7,22.7,22.7,,,,,,,,,,

@@ -1,0 +1,12 @@
+﻿lake_name,Minonk Lake
+lake_ID,NHD:nhdhr_123148050
+latitude,46.250539848259365
+longtitude,-89.77126081714167
+continent,北美洲
+country,United States
+salinity,2007：0.0161 PSU；2012：0.01583 PSU；2017：0.01545 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,0.91m/℃,2.74m/℃,3.05m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1993-06-29,,,20.56,20.0,19.44,18.33,,,,,,,,,,

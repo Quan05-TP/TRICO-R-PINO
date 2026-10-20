@@ -1,0 +1,16 @@
+﻿lake_name,Presqu'Île Pond
+lake_ID,CSV:GEMSTAT_V3:CAN00299
+latitude,46.6897
+longtitude,-60.9583
+continent,北美洲
+country,Canada
+salinity,0.2009 PSU（GEMStat比电导率经PSS-78/Hill换算的中位数；范围0.1351–0.2523 PSU；2000-06-17至2019-05-13；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2010-05-13,14:00,,10.2,,,,,,,,,,
+2011-05-05,14:25,,12.3,,,,,,,,,,
+2011-10-14,11:30,,11.7,,,,,,,,,,
+2013-05-19,14:15,,10.7,,,,,,,,,,
+2013-10-21,11:18,,11.5,,,,,,,,,,

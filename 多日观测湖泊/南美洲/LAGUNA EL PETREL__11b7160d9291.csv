@@ -1,0 +1,14 @@
+﻿lake_name,LAGUNA EL PETREL
+lake_ID,CSV:CHILE_DGA_EULA_2021:LAKE_1
+latitude,-34.3758789
+longtitude,-71.9895574
+continent,南美洲
+country,Chile
+salinity,8.430 PSU（论文表1实测中位数；2025-04-24—2025-06-10；范围7.53—15.41 PSU；PE1—PE4共12值，非本CSV逐行同期值）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-01-19,15:55:00,,24.66,,,,,,,,,,
+2017-11-08,14:00:00,,20.4,,,,,,,,,,
+2019-01-17,11:51:00,,22.5,,,,,,,,,,

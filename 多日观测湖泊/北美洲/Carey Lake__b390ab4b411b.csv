@@ -1,0 +1,13 @@
+﻿lake_name,Carey Lake
+lake_ID,CSV:HYL_111007
+latitude,43.33129134
+longtitude,-113.9282985
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.13m/℃,1m/℃,1.68m/℃,2m/℃,2.5m/℃,2.51m/℃,2.97m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-19,,,23.7,,,22.7,,22.5,22.4,,,,,,,,,,,,
+2012-07-30,,,,25.21,24.82,,21.58,,,19.16,17.18,,,,,,,,,,

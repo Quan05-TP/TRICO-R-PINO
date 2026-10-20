@@ -1,0 +1,12 @@
+﻿lake_name,未命名湖泊_HYL_105667
+lake_ID,CSV:HYL_105667
+latitude,47.34437749
+longtitude,-100.0458254
+continent,北美洲
+country,United States
+salinity,4.106 PSU（EPA发布25℃电导率按PSS-78/Hill公式换算中位数；范围4.104—4.109 PSU；2007-08-27至2007-08-27；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,2.6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-27,,,19.0,19.1,19.0,19.1,19.1,19.0,19.0,,,,,,,,,,

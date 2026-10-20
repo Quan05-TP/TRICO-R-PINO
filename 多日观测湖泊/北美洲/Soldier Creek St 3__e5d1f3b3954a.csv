@@ -1,0 +1,14 @@
+﻿lake_name,Soldier Creek St 3
+lake_ID,CSV:UNMATCHED_CLUSTER_ba8c3850035ece18
+latitude,35.4454
+longtitude,-99.29046
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.499m/℃,1m/℃,1.07m/℃,1.5m/℃,2m/℃,2.9m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-05-29,,,25.03,,21.7,,24.3,23.8,,,,,,,,,,,,
+2017-06-20,,,,27.13,,26.9,,,26.15,25.47,,,,,,,,,,
+2017-06-20,,,,27.205,,,,,,,,,,,,,,,,

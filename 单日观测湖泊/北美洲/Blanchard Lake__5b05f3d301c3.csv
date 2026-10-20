@@ -1,0 +1,12 @@
+﻿lake_name,Blanchard Lake
+lake_ID,CSV:HYL_1001274
+latitude,48.01025724
+longtitude,-116.7078838
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,1.59m/℃,1.74m/℃,2.63m/℃,3.6m/℃,4.58m/℃,5.47m/℃,6.56m/℃,7.48m/℃,8.49m/℃,9.6m/℃,9.63m/℃,10.45m/℃,11.62m/℃,12.53m/℃,13.61m/℃,14.71m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-07-15,,,20.87,20.2,15.11,11.63,9.4,7.49,6.38,5.94,5.46,5.29,5.29,5.23,5.18,5.16,5.14,5.14,,,,,,,,,,

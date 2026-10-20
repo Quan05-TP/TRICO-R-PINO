@@ -1,0 +1,12 @@
+﻿lake_name,Eighteen Lake
+lake_ID,NHD:nhdhr_123271839
+latitude,47.6385606240701
+longtitude,-96.05582104931366
+continent,北美洲
+country,United States
+salinity,0.1823 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.1823–0.1823 PSU；2009-07-21至2009-07-21，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2009-07-21,,,20.5,,,,,,,,,,

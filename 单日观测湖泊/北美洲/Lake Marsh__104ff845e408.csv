@@ -1,0 +1,12 @@
+﻿lake_name,Lake Marsh
+lake_ID,NHD:nhdhr_147528279
+latitude,44.64682826299943
+longtitude,-97.24426483354304
+continent,北美洲
+country,United States
+salinity,2007：0.7431 PSU；2012：0.7317 PSU；2017：0.7155 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.47m/℃,0.62m/℃,0.64m/℃,1m/℃,1.16m/℃,1.17m/℃,1.56m/℃,1.61m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2018-07-30,,,23.33,23.01,23.08,22.55,22.74,22.74,22.39,22.75,,,,,,,,,,

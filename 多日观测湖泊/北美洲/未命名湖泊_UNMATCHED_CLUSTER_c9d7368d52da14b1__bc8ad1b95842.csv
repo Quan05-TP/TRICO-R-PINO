@@ -1,0 +1,14 @@
+﻿lake_name,未命名湖泊_UNMATCHED_CLUSTER_c9d7368d52da14b1
+lake_ID,CSV:UNMATCHED_CLUSTER_c9d7368d52da14b1
+latitude,40.53272
+longtitude,-85.62905
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,3.8m/℃,4m/℃,5m/℃,5.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-07-27,,,27.02,,26.8,25.6,22.1,,18.2,15.1,14.1,,,,,,,,,,
+2017-07-27,,,26.94,,,,,,,,,,,,,,,,,,
+2022-07-21,,,,28.36,27.48,25.05,23.25,19.72,,,,,,,,,,,,,

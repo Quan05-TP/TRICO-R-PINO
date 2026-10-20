@@ -1,0 +1,14 @@
+﻿lake_name,Tarrant Lake
+lake_ID,WI_WBIC:1269100
+latitude,43.54519286350658
+longtitude,-89.10399230004711
+continent,北美洲
+country,United States
+salinity,0.297 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.297–0.297 PSU；2016-08-26至2016-08-26，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2016-07-28,,,25.2,,,,,,,,,,,,
+2016-08-11,,,25.8,25.4,,,,,,,,,,,
+2016-08-26,,,23.4,23.0,20.5,,,,,,,,,,

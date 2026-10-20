@@ -1,0 +1,12 @@
+﻿lake_name,Finn Lake
+lake_ID,NHD:nhdhr_df09fb62-d489-4a8e-b6b0-d88a8ad60bf7
+latitude,48.02451348313664
+longtitude,-90.64906841652652
+continent,北美洲
+country,United States
+salinity,2007：0.01958 PSU；2012：0.01926 PSU；2017：0.01881 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.66m/℃,4.57m/℃,4.88m/℃,5.18m/℃,5.49m/℃,6.1m/℃,6.4m/℃,6.71m/℃,7.62m/℃,8.53m/℃,9.45m/℃,10.36m/℃,11.28m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1997-08-12,,,20.8,20.7,20.6,20.3,19.7,12.0,10.8,9.7,9.0,8.5,8.2,8.0,7.5,7.1,7.0,7.0,7.0,,,,,,,,,,

@@ -1,0 +1,16 @@
+﻿lake_name,未命名湖泊_URY00155
+lake_ID,CSV:GEMSTAT_V3:URY00155
+latitude,-34.782625
+longtitude,-54.565211
+continent,南美洲
+country,Uruguay
+salinity,0.7–8.6 ppt（GEMStat站点URY00155实测范围；2018-02-02至2018-10-26；4条；非全湖固定值；详见待补录与修改记录_20261009/GEMStat盐度补录明细.csv）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-11-08,00:00,,21.07,,,,,,,,,,
+2018-02-02,00:00,,25.78,,,,,,,,,,
+2018-04-28,00:00,,21.87,,,,,,,,,,
+2018-08-03,00:00,,10.8,,,,,,,,,,
+2018-10-26,11:00,,19.37,,,,,,,,,,

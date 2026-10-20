@@ -1,0 +1,14 @@
+﻿lake_name,Charles Lake
+lake_ID,NHD:nhdhr_58613768
+latitude,33.7614737312272
+longtitude,-94.84244046290686
+continent,北美洲
+country,United States
+salinity,2007：0.07139 PSU；2012：0.07025 PSU；2017：0.06879 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.08m/℃,0.33m/℃,0.34m/℃,0.35m/℃,0.37m/℃,0.59m/℃,0.63m/℃,1m/℃,1.02m/℃,1.17m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2011-12-06,,,,,,7.09,,,7.52,,,,,,,,,,,,,
+2012-06-04,,,,,28.13,,28.16,,,27.94,27.71,27.86,,,,,,,,,,
+2012-08-27,,,31.99,27.45,,,,27.52,,,,,,,,,,,,,,

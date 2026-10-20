@@ -1,0 +1,12 @@
+﻿lake_name,Armington Lake
+lake_ID,CSV:HYL_1047028
+latitude,43.9575273
+longtitude,-71.96791311
+continent,北美洲
+country,United States
+salinity,0.01107 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.00808–0.0173 PSU；2005-08-03至2016-08-28，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.9m/℃,2m/℃,2.9m/℃,3.9m/℃,4.9m/℃,5.9m/℃,7m/℃,7.9m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-08-01,,,25.1,25.1,25.0,24.9,23.8,22.8,22.0,21.1,20.0,,,,,,,,,,

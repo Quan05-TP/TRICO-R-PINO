@@ -1,0 +1,14 @@
+﻿lake_name,Bog
+lake_ID,MN_DOW:38044300
+latitude,47.7845488243257
+longtitude,-91.38984956301044
+continent,北美洲
+country,United States
+salinity,2007：0.02478 PSU；2012：0.02438 PSU；2017：0.02383 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.66m/℃,4.57m/℃,4.72m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1985-07-01,,,20.0,,,,,,,,,,,,,,,,
+2010-08-02,,,24.0,23.3,22.9,22.7,22.5,22.3,22.0,,,,,,,,,,
+2010-08-05,,,19.44,,,,,,,,,,,,,,,,

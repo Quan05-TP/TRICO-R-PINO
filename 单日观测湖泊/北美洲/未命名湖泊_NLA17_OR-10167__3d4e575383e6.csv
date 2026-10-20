@@ -1,0 +1,12 @@
+﻿lake_name,Timber Lake
+lake_ID,CSV:EPA_NLA_2017:NLA17_OR-10167
+latitude,44.7994
+longtitude,-121.8006
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-07-19,,,19.9,19.8,19.8,19.8,19.8,19.8,,,,,,,,,,

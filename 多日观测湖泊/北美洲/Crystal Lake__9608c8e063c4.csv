@@ -1,0 +1,14 @@
+﻿lake_name,Crystal Lake
+lake_ID,NHD:nhdhr_59811297
+latitude,46.46584509852829
+longtitude,-94.16513896974766
+continent,北美洲
+country,United States
+salinity,0.03061 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.0246–0.03662 PSU；1989-02-20至1997-02-17，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2014-07-24,,,25.56,,,,,,,,,,
+2014-08-13,,,26.11,,,,,,,,,,
+2014-09-25,,,16.11,,,,,,,,,,

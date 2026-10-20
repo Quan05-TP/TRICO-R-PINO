@@ -1,0 +1,17 @@
+﻿lake_name,Goose Lake
+lake_ID,NHD:nhdhr_143262679
+latitude,47.83485275422962
+longtitude,-99.90222597943897
+continent,北美洲
+country,United States
+salinity,2007：1.502 PSU；2012：1.486 PSU；2017：1.475 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2019-05-13,,,14.29,,,,,,,,,,
+2019-05-27,,,14.75,,,,,,,,,,
+2020-04-22,,,6.95,,,,,,,,,,
+2020-04-29,,,12.18,,,,,,,,,,
+2020-04-30,,,13.9,,,,,,,,,,
+2021-05-20,,,17.66,,,,,,,,,,

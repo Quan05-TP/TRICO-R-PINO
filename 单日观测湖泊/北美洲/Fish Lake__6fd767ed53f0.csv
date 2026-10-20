@@ -1,0 +1,12 @@
+﻿lake_name,Fish Lake
+lake_ID,CSV:EPA_NLA_2012:NLA12_OR-126
+latitude,44.83363547
+longtitude,-121.8137759
+continent,北美洲
+country,United States
+salinity,0.009216 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.009216–0.009216 PSU；2012-09-10至2012-09-10，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.13m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,14m/℃,15m/℃,16m/℃,17m/℃,18m/℃,19m/℃,19.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-09-10,,,17.6,17.7,17.6,17.6,17.6,17.6,17.5,14.7,11.2,9.3,7.8,6.8,6.0,5.2,5.0,4.8,4.7,4.6,4.6,4.6,4.5,,,,,,,,,,

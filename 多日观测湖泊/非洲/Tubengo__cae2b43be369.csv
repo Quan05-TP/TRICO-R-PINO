@@ -1,0 +1,13 @@
+﻿lake_name,Tubengo
+lake_ID,CSV:UGANDA_CRATER:UG_058
+latitude,-0.08
+longtitude,30.18
+continent,非洲
+country,Uganda
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,3m/℃,3.5m/℃,4m/℃,4.5m/℃,5m/℃,5.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2002-01-03,,,26.61,26.64,26.63,26.56,26.52,26.46,26.44,26.42,26.42,26.39,26.4,26.39,,,,,,,,,,
+2007-02-22,13:30,,29.26,28.91,28.34,27.86,27.79,27.67,27.41,27.28,26.67,26.55,,,,,,,,,,,,

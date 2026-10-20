@@ -1,0 +1,12 @@
+﻿lake_name,RUTH LAKE
+lake_ID,CSV:HYL_112092
+latitude,40.33768
+longtitude,-123.40426
+continent,北美洲
+country,United States
+salinity,0.05771 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.05771–0.05771 PSU；1977-09-08至1977-09-08，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,14m/℃,15m/℃,16m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2022-08-17,,,22.48,22.47,22.44,22.44,22.43,22.42,22.38,22.16,20.57,18.49,17.16,16.66,15.62,14.67,14.46,13.95,13.69,,,,,,,,,,

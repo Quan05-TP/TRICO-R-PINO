@@ -1,0 +1,12 @@
+﻿lake_name,Duck Pond
+lake_ID,CSV:HYL_1047618
+latitude,43.80812429
+longtitude,-71.11845765
+continent,北美洲
+country,United States
+salinity,0.02599 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.02349–0.02679 PSU；2008-08-04至2013-07-19，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,0.97m/℃,2.05m/℃,2.99m/℃,3.69m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-07,,,27.2,26.7,26.5,26.3,24.9,,,,,,,,,,

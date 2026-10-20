@@ -1,0 +1,14 @@
+﻿lake_name,Logan Martin Lake
+lake_ID,CSV:EPA_NLA_2007:NLA06608-2955
+latitude,33.67333
+longtitude,-86.16453
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,9.7m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-06-28,,,29.5,29.1,28.9,28.7,28.5,28.3,28.0,27.8,27.4,27.0,,,,,,,,,,,
+2012-07-19,,,29.9,29.8,29.4,29.3,29.3,29.2,29.2,,,,,,,,,,,,,,
+2017-08-14,,,28.1,28.0,27.7,27.1,27.0,26.8,26.7,26.6,25.7,23.8,23.7,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿lake_name,未命名湖泊_HYL_1030705
+lake_ID,CSV:HYL_1030705
+latitude,46.14895
+longtitude,-95.52203
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.5m/℃,0.7m/℃,1m/℃,1.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-08-28,,,21.431,,19.84,,19.135,18.8,,,,,,,,,,
+2022-09-15,,,,19.96,19.88,19.85,,,,,,,,,,,,

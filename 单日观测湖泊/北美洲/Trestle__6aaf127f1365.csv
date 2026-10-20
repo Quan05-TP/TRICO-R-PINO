@@ -1,0 +1,12 @@
+﻿lake_name,Trestle
+lake_ID,MN_DOW:31012700
+latitude,47.45637955210257
+longtitude,-93.3087395178928
+continent,北美洲
+country,United States
+salinity,2007：0.05474 PSU；2012：0.05393 PSU；2017：0.05274 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.61m/℃,1.22m/℃,1.83m/℃,2.44m/℃,3.05m/℃,3.66m/℃,4.27m/℃,4.88m/℃,5.49m/℃,6.1m/℃,6.71m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1979-07-16,,,23.89,23.33,22.78,22.22,22.22,19.44,17.22,13.89,11.67,8.89,7.78,6.11,,,,,,,,,,

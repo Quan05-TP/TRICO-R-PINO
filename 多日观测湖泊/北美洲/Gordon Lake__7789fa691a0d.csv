@@ -1,0 +1,14 @@
+﻿lake_name,Gordon Lake
+lake_ID,NHD:nhdhr_74923947
+latitude,46.16795141510598
+longtitude,-90.61820635792608
+continent,北美洲
+country,United States
+salinity,2007：0.02739 PSU；2012：0.02696 PSU；2017：0.02639 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.5m/℃,6.2m/℃,6.4m/℃,6.5m/℃,7.5m/℃,7.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2000-06-13,,,19.4,,,6.8,8.6,,,,,,,,,,,
+2000-07-19,,,19.7,,7.8,,,9.7,,,,,,,,,,
+2000-08-09,,,,8.7,,,10.2,,,,,,,,,,,

@@ -1,0 +1,17 @@
+﻿lake_name,Keeler Lake
+lake_ID,NHD:nhdhr_155636393
+latitude,42.10550501226585
+longtitude,-86.13136198225094
+continent,北美洲
+country,United States
+salinity,2007：0.1195 PSU；2012：0.1177 PSU；2017：0.1175 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2018-05-14,,,17.71,,,,,,,,,,
+2018-07-12,,,30.1,,,,,,,,,,
+2019-10-10,,,19.2,,,,,,,,,,
+2020-06-15,,,24.48,,,,,,,,,,
+2020-08-19,,,26.04,,,,,,,,,,
+2021-04-29,,,14.55,,,,,,,,,,

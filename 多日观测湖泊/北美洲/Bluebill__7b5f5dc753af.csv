@@ -1,0 +1,13 @@
+﻿lake_name,Bluebill
+lake_ID,MN_DOW:11039700
+latitude,46.993624053755184
+longtitude,-94.46178553444108
+continent,北美洲
+country,United States
+salinity,2007：0.09764 PSU；2012：0.09619 PSU；2017：0.09409 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,0.61m/℃,0.91m/℃,1.22m/℃,1.52m/℃,1.83m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1988-10-11,,,9.9,9.9,9.9,9.9,9.9,9.9,9.9,,,,,,,,,,
+1994-06-13,,,23.5,23.0,22.0,21.0,20.0,19.5,,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿lake_name,Pisciculture East
+lake_ID,CSV:PANGAEA_974320:Pisciculture_East
+latitude,-2.7449
+longtitude,-59.4809
+continent,南美洲
+country,Brazil
+salinity,0.5 PSU
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.07m/℃,0.08m/℃,0.09m/℃,0.1m/℃,0.12m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2021-09-26,00:00:00,,32.5,32.4,32.5,32.6,32.0,,,,,,,,,,
+2021-09-26,00:00:00,,32.4,32.8,,33.4,,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿lake_name,Patton Lake
+lake_ID,NHD:nhdhr_127721161
+latitude,34.39018464237154
+longtitude,-91.94214399722192
+continent,北美洲
+country,United States
+salinity,0.03684 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.02364–0.05004 PSU；1980-06-11至1980-08-29，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1980-06-11,,,27.0,26.5,,,,,,,,,,
+1980-08-29,,,30.0,29.5,,,,,,,,,,

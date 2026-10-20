@@ -1,0 +1,17 @@
+﻿lake_name,未命名湖泊_SWE00263
+lake_ID,CSV:GEMSTAT_V3:SWE00263
+latitude,61.58063
+longtitude,12.7516
+continent,欧洲
+country,Sweden
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-02-12,12:00,,0.2,,,,,,,,,,
+2012-04-15,12:00,,0.0,,,,,,,,,,
+2012-05-13,12:00,,0.1,,,,,,,,,,
+2012-07-15,12:00,,12.8,,,,,,,,,,
+2012-08-18,12:00,,14.4,,,,,,,,,,
+2012-09-21,12:00,,3.5,,,,,,,,,,

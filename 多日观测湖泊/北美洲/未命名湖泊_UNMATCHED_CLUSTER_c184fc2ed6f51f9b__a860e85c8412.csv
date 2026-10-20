@@ -1,0 +1,13 @@
+﻿lake_name,Willow Island Lake (WMA)
+lake_ID,CSV:UNMATCHED_CLUSTER_c184fc2ed6f51f9b
+latitude,40.87664
+longtitude,-100.068
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,1m/℃,2m/℃,3m/℃,3.2m/℃,3.5m/℃,3.6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-07-10,,,28.4,28.1,26.1,22.3,,20.5,19.5,,,,,,,,,,
+2022-07-13,,,27.0,27.0,26.4,25.1,23.5,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+﻿lake_name,Lake Yale
+lake_ID,CSV:HYL_9593
+latitude,28.91024
+longtitude,-81.74619
+continent,北美洲
+country,United States
+salinity,0–0.2 ppth（WQP站点发布盐度；1999-01-20至2024-05-30；21条；3个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,3.5m/℃,4m/℃,5m/℃,5.6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-11,,,30.8,,30.7,30.6,30.4,30.0,,,,,,,,,,,,,
+2022-06-22,,,,30.2,30.2,30.1,30.1,,30.1,30.1,30.0,,,,,,,,,,

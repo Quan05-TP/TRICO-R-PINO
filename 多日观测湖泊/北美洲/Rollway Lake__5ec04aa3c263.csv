@@ -1,0 +1,14 @@
+﻿lake_name,Rollway Lake
+lake_ID,CSV:UNMATCHED_CLUSTER_9b9883c63f0d1856
+latitude,43.64014
+longtitude,-85.9603
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,1m/℃,1.96m/℃,2m/℃,3m/℃,4m/℃,4.01m/℃,5m/℃,5.03m/℃,5.1m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-06-06,,,21.3,19.0,,14.5,12.2,10.4,,9.05,,8.96,,,,,,,,,,
+2017-06-06,,,21.6,,,,,,,,,,,,,,,,,,,
+2022-06-06,,,18.1,18.1,14.05,,10.2,,8.14,,7.85,,,,,,,,,,,

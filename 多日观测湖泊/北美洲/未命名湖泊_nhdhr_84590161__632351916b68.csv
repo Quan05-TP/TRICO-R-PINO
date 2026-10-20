@@ -1,0 +1,15 @@
+﻿lake_name,Pickeral
+lake_ID,NHD:nhdhr_84590161
+latitude,44.31698782900363
+longtitude,-96.24750478969057
+continent,北美洲
+country,United States
+salinity,2007：0.469 PSU；2012：0.4617 PSU；2017：0.4516 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2010-05-24,,,22.22,,,,,,,,,,
+2013-08-27,,,27.8,,,,,,,,,,
+2013-09-16,,,17.8,,,,,,,,,,
+2013-10-01,,,16.7,,,,,,,,,,

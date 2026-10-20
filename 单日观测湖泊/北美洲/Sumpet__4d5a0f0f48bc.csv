@@ -1,0 +1,12 @@
+﻿lake_name,Sumpet
+lake_ID,MN_DOW:38028300
+latitude,47.77543720488504
+longtitude,-91.2013368762771
+continent,北美洲
+country,United States
+salinity,2007：0.01881 PSU；2012：0.01851 PSU；2017：0.01807 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,0.61m/℃,0.91m/℃,1.22m/℃,1.52m/℃,1.83m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1991-08-26,,,20.56,20.28,19.11,17.5,17.0,17.0,16.5,,,,,,,,,,

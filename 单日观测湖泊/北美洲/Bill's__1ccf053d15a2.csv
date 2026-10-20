@@ -1,0 +1,12 @@
+﻿lake_name,Bill's
+lake_ID,MN_DOW:31067800
+latitude,47.5589274551068
+longtitude,-93.66815143003136
+continent,北美洲
+country,United States
+salinity,2007：0.08218 PSU；2012：0.08093 PSU；2017：0.07957 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1993-07-13,,,21.2,,,,,,,,,,

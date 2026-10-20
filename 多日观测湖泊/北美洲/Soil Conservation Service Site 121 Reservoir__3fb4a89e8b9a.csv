@@ -1,0 +1,13 @@
+﻿lake_name,Soil Conservation Service Site 121 Reservoir
+lake_ID,CSV:UNMATCHED_CLUSTER_98fc3e86e591140e
+latitude,32.05630851
+longtitude,-96.73178299
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.037m/℃,0.062m/℃,0.5m/℃,1m/℃,1.003m/℃,1.5m/℃,2m/℃,2.001m/℃,2.3m/℃,2.802m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-30,,,27.9,,,27.9,27.9,,27.8,27.7,,27.4,,,,,,,,,,,
+2017-06-07,,,,27.5,27.5,,,27.4,,,26.6,,24.2,,,,,,,,,,

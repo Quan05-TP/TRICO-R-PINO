@@ -1,0 +1,12 @@
+﻿lake_name,Crystal Lake
+lake_ID,CSV:EPA_NLA_2007:NLA06608-0865
+latitude,28.0262635
+longtitude,-81.90969367
+continent,北美洲
+country,United States
+salinity,0.05–0.1 ppth（WQP站点发布盐度；2007-06-13至2023-10-16；59条；3个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.4m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-09-12,,,29.5,29.5,29.5,29.4,29.4,29.4,,,,,,,,,,

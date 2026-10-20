@@ -1,0 +1,12 @@
+﻿lake_name,Mbugo
+lake_ID,CSV:UGANDA_CRATER:UG_038
+latitude,-0.174004
+longtitude,30.156157
+continent,非洲
+country,Uganda
+salinity,1.50E002 mg/L（PANGAEA.983366 环境背景资料；采样日期和深度未注明；不代表每次温深观测的同期盐度）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-02-19,13:15,,27.31,27.19,26.27,26.2,26.02,25.98,,,,,,,,,,

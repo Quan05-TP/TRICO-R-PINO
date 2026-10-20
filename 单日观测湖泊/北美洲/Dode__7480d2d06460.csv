@@ -1,0 +1,12 @@
+﻿lake_name,Dode
+lake_ID,MN_DOW:31002400
+latitude,47.2431176027279
+longtitude,-93.10452567082204
+continent,北美洲
+country,United States
+salinity,2007：0.04129 PSU；2012：0.04064 PSU；2017：0.04729 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,3.05m/℃,3.96m/℃,4.27m/℃,4.57m/℃,4.88m/℃,5.18m/℃,5.49m/℃,5.79m/℃,6.1m/℃,6.71m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1988-06-29,,,20.0,20.0,20.0,18.89,16.67,15.0,13.33,12.78,12.78,12.22,12.22,,,,,,,,,,

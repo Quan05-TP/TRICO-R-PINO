@@ -1,0 +1,13 @@
+﻿lake_name,Indian Creek
+lake_ID,CSV:HYL_113802
+latitude,31.10386776
+longtitude,-92.47015483
+continent,北美洲
+country,United States
+salinity,0.015 ppt（LAGOS-US发布盐度的中位数；范围0.01–0.02 ppt；2013-10-02至2018-09-05，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,5.5m/℃,6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-09-07,,,31.22,,30.17,29.98,29.88,29.74,27.93,,25.58,,,,,,,,,,
+2022-06-12,,,,29.5,29.4,29.4,29.4,29.2,26.1,25.5,,,,,,,,,,,

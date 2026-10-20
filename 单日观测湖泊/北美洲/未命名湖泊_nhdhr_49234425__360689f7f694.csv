@@ -1,0 +1,12 @@
+﻿lake_name,未命名湖泊_nhdhr_49234425
+lake_ID,NHD:nhdhr_49234425
+latitude,37.69166736036248
+longtitude,-88.64396782596641
+continent,北美洲
+country,United States
+salinity,0.1081 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.1081–0.1081 PSU；1983-06-09至1983-06-09，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1.01m/℃,2.01m/℃,2.99m/℃,3.99m/℃,5m/℃,6m/℃,6.49m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1983-06-09,,,26.0,23.5,20.5,15.0,12.5,11.5,11.5,11.0,,,,,,,,,,

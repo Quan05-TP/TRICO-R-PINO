@@ -1,0 +1,13 @@
+﻿lake_name,Mud Pond
+lake_ID,CSV:UNMATCHED_CLUSTER_8ec20ed4e52e4fb0
+latitude,44.73604256
+longtitude,-74.06546921
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-07-18,,,23.05,20.8,12.7,9.44,7.74,7.36,,,,,,,,,,
+2017-08-30,,,16.5,15.7,14.2,11.4,9.9,,,,,,,,,,,

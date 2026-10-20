@@ -1,0 +1,14 @@
+﻿lake_name,BRIDGER LAKE
+lake_ID,CSV:UNMATCHED_CLUSTER_5acdebb4ca2f9f17
+latitude,40.96279
+longtitude,-110.3871
+continent,北美洲
+country,United States
+salinity,0.05–0.05 ppth（WQP站点发布盐度；2002-09-06至2002-09-06；2条；1个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）；0–0.1 ppt（WQP站点发布盐度；2006-07-11至2007-07-19；6条；1个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,3.7m/℃,4m/℃,4.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-09-18,,,11.4,,11.2,11.0,10.9,10.7,,,,,,,,,,,,
+2017-09-18,,,11.2,,,,,,,,,,,,,,,,,
+2022-08-10,,,,17.97,17.64,16.54,15.03,,10.44,10.42,,,,,,,,,,

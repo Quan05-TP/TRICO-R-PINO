@@ -1,0 +1,18 @@
+﻿lake_name,"Cobrielle Lake, Nova Scotia"
+lake_ID,"LOCAL:HYL_110367:Cobrielle Lake, Nova Scotia"
+latitude,44.3164
+longtitude,-65.2328
+continent,北美洲
+country,Canada
+salinity,0.007615 PSU（GEMStat比电导率经PSS-78/Hill换算的中位数；范围0.0058–0.009594 PSU；2000-05-16至2019-08-12；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2008-06-18,10:30,,18.87,,,,,,,,,,
+2008-08-18,12:55,,22.6,,,,,,,,,,
+2010-06-18,12:00,,19.66,,,,,,,,,,
+2010-08-18,17:30,,24.8,,,,,,,,,,
+2012-06-11,12:04,,19.09,,,,,,,,,,
+2013-06-14,10:25,,16.0,,,,,,,,,,
+2013-08-26,11:40,,22.4,,,,,,,,,,

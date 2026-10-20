@@ -1,0 +1,12 @@
+﻿lake_name,BLUE LAKE
+lake_ID,CSV:HYL_1054609
+latitude,41.14671
+longtitude,-120.28693
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,14m/℃,15m/℃,16m/℃,17m/℃,18m/℃,18.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2022-08-23,,,19.26,19.25,19.24,19.18,19.15,19.13,18.88,18.77,16.15,12.75,10.12,9.3,8.63,7.49,6.9,6.75,5.64,5.6,5.22,5.13,,,,,,,,,,

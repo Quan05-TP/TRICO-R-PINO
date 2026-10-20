@@ -1,0 +1,15 @@
+﻿lake_name,未命名湖泊_HYL_162656
+lake_ID,CSV:HYL_162656
+latitude,54.76762
+longtitude,17.64483
+continent,欧洲
+country,Poland
+salinity,0.1203 PSU (median; 0.02075–0.7136 PSU; n=30; 2014–2015)
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2014-04-24,12:00,,13.8,,,,,,,,,,
+2014-06-16,12:00,,18.2,,,,,,,,,,
+2014-08-26,12:00,,16.1,,,,,,,,,,
+2014-10-16,12:00,,13.3,,,,,,,,,,

@@ -1,0 +1,16 @@
+﻿lake_name,Sugar Brook Lakes
+lake_ID,CSV:GEMSTAT_V3:CAN00300
+latitude,46.796
+longtitude,-60.794
+continent,北美洲
+country,Canada
+salinity,0.02226 PSU（GEMStat比电导率经PSS-78/Hill换算的中位数；范围0.009594–0.0308 PSU；2008-06-11至2019-06-17；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2011-05-17,13:33,,11.3,,,,,,,,,,
+2011-10-25,13:45,,9.5,,,,,,,,,,
+2012-05-23,11:40,,17.7,,,,,,,,,,
+2013-05-23,13:30,,12.6,,,,,,,,,,
+2013-10-29,13:50,,5.2,,,,,,,,,,

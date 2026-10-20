@@ -1,0 +1,12 @@
+﻿lake_name,Brush
+lake_ID,MN_DOW:29031000
+latitude,46.866523929886746
+longtitude,-95.15844124819208
+continent,北美洲
+country,United States
+salinity,2007：0.1102 PSU；2012：0.1087 PSU；2017：0.1066 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.66m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2005-08-22,,,20.5,21.0,21.0,20.9,20.7,,,,,,,,,,

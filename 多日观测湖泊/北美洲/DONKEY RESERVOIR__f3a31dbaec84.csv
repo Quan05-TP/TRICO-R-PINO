@@ -1,0 +1,14 @@
+﻿lake_name,DONKEY RESERVOIR
+lake_ID,CSV:UNMATCHED_CLUSTER_32dfcce4b8c8ff06
+latitude,38.20258
+longtitude,-111.4929
+continent,北美洲
+country,United States
+salinity,0–0.1 ppth（WQP站点发布盐度；2001-07-12至2001-09-13；3条；1个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-07-11,,,14.06,,13.78,13.54,13.34,12.92,12.68,,,,,,,,,,
+2017-07-11,,,14.07,,,,,,,,,,,,,,,,
+2022-09-13,,,,13.64,13.69,13.7,13.69,13.61,13.0,,,,,,,,,,

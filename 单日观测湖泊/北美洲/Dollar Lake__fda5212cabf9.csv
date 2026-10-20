@@ -1,0 +1,13 @@
+﻿lake_name,Dollar Lake
+lake_ID,WI_WBIC:1603300
+latitude,45.91800895967823
+longtitude,-89.20490316229929
+continent,北美洲
+country,United States
+salinity,2007：0.009962 PSU；2012：0.009797 PSU；2017：0.009572 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.3m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.66m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2001-08-27,,,22.5,22.5,22.5,22.5,22.4,22.3,,,,,,,,,,
+2001-08-27,,,22.5,22.5,22.5,22.5,22.4,22.3,,,,,,,,,,

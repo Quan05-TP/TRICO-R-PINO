@@ -1,0 +1,13 @@
+﻿lake_name,LAKE SAINT LOUISE
+lake_ID,CSV:HYL_1057440
+latitude,38.80011
+longtitude,-90.7975
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,5.4m/℃,6m/℃,6.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-09-19,,,24.6,,24.5,24.5,23.5,22.9,22.6,,20.4,17.6,,,,,,,,,,
+2022-08-04,,,,29.348,28.522,27.355,25.751,23.146,19.298,18.472,,,,,,,,,,,,

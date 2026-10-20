@@ -1,0 +1,13 @@
+﻿lake_name,Willow Lakes
+lake_ID,CSV:UNMATCHED_CLUSTER_3a87a90fd0402345
+latitude,39.64606
+longtitude,-106.1668
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.01m/℃,0.5m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.7m/℃,5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-15,,,,11.7,11.7,11.7,11.4,11.2,,11.0,,,,,,,,,,
+2017-07-27,,,11.5,,10.3,9.2,8.7,8.3,8.2,,,,,,,,,,,

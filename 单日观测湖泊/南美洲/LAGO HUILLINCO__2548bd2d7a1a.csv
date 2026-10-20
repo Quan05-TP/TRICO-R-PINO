@@ -1,0 +1,12 @@
+﻿lake_name,LAGO HUILLINCO
+lake_ID,CSV:CHILE_DGA_EULA_2021:LAKE_28
+latitude,-42.669405
+longtitude,-73.938524
+continent,南美洲
+country,Chile
+salinity,29 ‰（1996-11至1997-10；45 m底层年均盐度，非全湖均值）
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,49m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2020-02-10,12:40:00,,19.3,13.4,,,,,,,,,,

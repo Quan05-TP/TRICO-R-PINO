@@ -1,0 +1,12 @@
+﻿lake_name,J. STROM THURMOND RESERVOIR
+lake_ID,CSV:HYL_827
+latitude,33.84511
+longtitude,-82.37431
+continent,北美洲
+country,United States
+salinity,2.875 ppt（LAGOS-US发布盐度的中位数；范围2.5–3.25 ppt；2014-01-14至2015-05-13，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,0.5m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,8m/℃,9m/℃,10m/℃,11m/℃,12m/℃,13m/℃,14m/℃,15m/℃,16m/℃,17m/℃,18m/℃,19m/℃,20m/℃,20.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2022-07-18,,,30.7,30.7,30.7,30.5,29.7,29.2,25.8,24.6,22.8,22.3,21.0,20.8,20.0,19.7,19.6,19.6,19.3,19.1,18.8,18.7,18.2,18.2,18.2,,,,,,,,,,

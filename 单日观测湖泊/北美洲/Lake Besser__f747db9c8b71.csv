@@ -1,0 +1,14 @@
+﻿lake_name,Lake Besser
+lake_ID,CSV:EPA_NLA_2007:NLA06608-0330
+latitude,45.07092784077111
+longtitude,-83.45474290938617
+continent,北美洲
+country,United States
+salinity,0.1587 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.1587–0.1587 PSU；2007-09-05至2007-09-05，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes | natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,4.7m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-09-05,,,21.8,21.5,21.4,21.3,21.3,21.3,,,,,,,,,,
+2007-09-05,,,21.8,21.5,21.4,21.3,21.3,21.3,,,,,,,,,,
+2007-09-05,,,21.8,21.5,21.4,21.3,21.3,21.3,,,,,,,,,,

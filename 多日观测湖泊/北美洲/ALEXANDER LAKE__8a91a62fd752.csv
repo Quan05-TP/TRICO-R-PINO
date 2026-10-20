@@ -1,0 +1,14 @@
+﻿lake_name,ALEXANDER LAKE
+lake_ID,CSV:UNMATCHED_CLUSTER_c26daab74239195f
+latitude,40.60955
+longtitude,-110.9784
+continent,北美洲
+country,United States
+salinity,0.006108 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.003707–0.008508 PSU；1981-06-17至2017-09-13，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,6.8m/℃,7m/℃,7.8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-09-13,,,17.4,,17.2,17.0,16.9,16.2,13.3,10.1,,8.5,7.5,,,,,,,,,,
+2017-09-13,,,17.2,,,,,,,,,,,,,,,,,,,,
+2022-07-07,,,,18.99,18.5,18.24,14.31,9.63,6.59,5.87,5.68,,,,,,,,,,,,

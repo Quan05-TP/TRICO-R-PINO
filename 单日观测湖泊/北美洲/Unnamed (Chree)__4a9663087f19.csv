@@ -1,0 +1,12 @@
+﻿lake_name,Unnamed (Chree)
+lake_ID,MN_DOW:56071300
+latitude,46.45527424209449
+longtitude,-95.9512161861638
+continent,北美洲
+country,United States
+salinity,2007：0.2102 PSU；2012：0.2073 PSU；2017：0.2029 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.83m/℃,2.74m/℃,3.66m/℃,4.57m/℃,5.49m/℃,6.4m/℃,7.31m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2004-06-21,,,19.5,19.6,19.6,19.6,19.0,15.2,13.8,13.0,12.0,,,,,,,,,,

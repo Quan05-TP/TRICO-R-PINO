@@ -1,0 +1,13 @@
+﻿lake_name,Hoosier Lake
+lake_ID,NHD:nhdhr_45365849
+latitude,45.05969659932401
+longtitude,-94.54676356366404
+continent,北美洲
+country,United States
+salinity,0.17–0.18 ppt（WQP站点发布盐度；2017-09-14至2017-09-14；3条；1个站点；来源类型Actual；逐次/分层范围，非全湖固定值；详见待补录与修改记录_20261009/WQP盐度补录明细.csv）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,1.6m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-09-14,,,21.96,21.89,20.94,,,,,,,,,,
+2017-09-14,,,21.96,21.88,20.94,,,,,,,,,,

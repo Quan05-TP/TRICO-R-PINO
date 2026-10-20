@@ -1,0 +1,13 @@
+﻿lake_name,Lake Thisted
+lake_ID,NHD:nhdhr_147528793
+latitude,44.475180779373865
+longtitude,-97.15204318141042
+continent,北美洲
+country,United States
+salinity,2007：0.8411 PSU；2012：0.8277 PSU；2017：0.8087 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.41m/℃,0.44m/℃,0.46m/℃,0.51m/℃,0.64m/℃,0.66m/℃,1.14m/℃,1.22m/℃,1.38m/℃,1.46m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2016-06-07,,,,,,20.82,21.53,21.36,,18.61,21.07,20.85,,,,,,,,,,
+2016-08-01,,,25.59,25.58,25.51,,,,25.51,,25.58,,,,,,,,,,,

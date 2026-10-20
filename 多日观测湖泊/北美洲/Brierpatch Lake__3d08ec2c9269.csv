@@ -1,0 +1,14 @@
+﻿lake_name,Brierpatch Lake
+lake_ID,CSV:UNMATCHED_CLUSTER_3f1f72b94596dbcc
+latitude,33.29943972
+longtitude,-81.89267614
+continent,北美洲
+country,United States
+salinity,0.03666 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.03623–0.04443 PSU；2007-07-10至2017-06-07，3个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.4m/℃,0.5m/℃,0.8m/℃,1m/℃,1.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-10,,,32.26,,,27.7,,26.01,23.98,,,,,,,,,,
+2012-07-19,,,28.51,,28.4,,28.39,,,,,,,,,,,,
+2017-06-07,,,,24.75,,24.63,,23.19,18.33,,,,,,,,,,

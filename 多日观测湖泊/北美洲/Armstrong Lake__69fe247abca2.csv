@@ -1,0 +1,13 @@
+﻿lake_name,Armstrong Lake
+lake_ID,CSV:EPA_NLA_2007:NLA06608-0081
+latitude,48.22612028
+longtitude,-122.1241675
+continent,北美洲
+country,United States
+salinity,0.02839 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.02783–0.02895 PSU；2007-07-03至2007-09-19，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,1m/℃,2m/℃,3m/℃,4m/℃,5m/℃,6m/℃,7m/℃,7.5m/℃,8m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2007-07-03,,,22.6,21.6,17.8,12.4,8.3,6.9,6.2,5.7,,5.4,,,,,,,,,,
+2007-09-19,,,17.6,17.2,17.2,16.9,11.9,8.5,7.3,6.5,6.1,,,,,,,,,,,

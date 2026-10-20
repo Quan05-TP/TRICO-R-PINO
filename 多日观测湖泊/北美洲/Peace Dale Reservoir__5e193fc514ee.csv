@@ -1,0 +1,16 @@
+﻿lake_name,Peace Dale Reservoir
+lake_ID,CSV:UNMATCHED_CLUSTER_7b9a3f8000a46ac5
+latitude,41.45032
+longtitude,-71.51382
+continent,北美洲
+country,United States
+salinity,0.1279 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.09346–0.1292 PSU；2012-07-12至2017-08-10，2个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.5m/℃,1m/℃,1.5m/℃,1.6m/℃,1.75m/℃,2m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-07-12,,,27.5,25.6,24.7,21.8,20.8,,,,,,,,,,,,
+2017-07-06,,,25.4,25.4,23.2,19.9,,17.7,,,,,,,,,,,
+2017-07-06,,,25.6,,,,,,,,,,,,,,,,
+2017-08-10,,,24.2,22.4,21.2,19.6,,,17.4,,,,,,,,,,
+2017-08-10,,,24.4,,,,,,,,,,,,,,,,

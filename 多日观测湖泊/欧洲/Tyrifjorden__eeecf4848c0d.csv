@@ -1,0 +1,14 @@
+﻿lake_name,Tyrifjorden
+lake_ID,CSV:HYL_1155
+latitude,59.99228
+longtitude,10.25465
+continent,欧洲
+country,Norway
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2023-07-12,12:00,,14.644,,,,,,,,,,
+2023-08-16,12:00,,15.823,,,,,,,,,,
+2023-10-05,12:00,,11.624,,,,,,,,,,

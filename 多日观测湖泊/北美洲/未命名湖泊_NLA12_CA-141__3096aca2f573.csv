@@ -1,0 +1,13 @@
+﻿lake_name,未命名湖泊_NLA12_CA-141
+lake_ID,CSV:EPA_NLA_2012:NLA12_CA-141
+latitude,39.09599481
+longtitude,-122.9319835
+continent,北美洲
+country,United States
+salinity,0.5 PSU
+lake and reservoir types,natural_lake_source_only_unmatched | reservoir_explicit_source
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.1m/℃,0.5m/℃,1m/℃,1.5m/℃,2m/℃,2.5m/℃,3m/℃,3.2m/℃,3.5m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2012-08-22,,,23.1,,23.1,23.1,23.1,23.0,20.1,17.3,16.0,,,,,,,,,,,
+2017-06-19,,,,24.75,,23.48,,20.06,,18.59,,14.51,,,,,,,,,,

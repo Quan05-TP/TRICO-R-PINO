@@ -1,0 +1,16 @@
+﻿lake_name,Liberty Lake
+lake_ID,CSV:HYL_1045315
+latitude,44.3856
+longtitude,-65.4267
+continent,北美洲
+country,Canada
+salinity,0.008791 PSU（GEMStat比电导率经PSS-78/Hill换算的中位数；范围0.006356–0.01273 PSU；2000-05-16至2019-08-20；非本CSV逐行同期值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2008-06-19,11:40,,18.95,,,,,,,,,,
+2008-08-19,05:05,,22.45,,,,,,,,,,
+2010-06-22,08:17,,21.3,,,,,,,,,,
+2013-06-28,09:50,,21.0,,,,,,,,,,
+2013-08-16,11:30,,21.5,,,,,,,,,,

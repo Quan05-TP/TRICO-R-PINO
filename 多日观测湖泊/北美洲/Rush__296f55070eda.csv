@@ -1,0 +1,13 @@
+﻿lake_name,Rush
+lake_ID,MN_DOW:32003100
+latitude,43.53776788975018
+longtitude,-95.13200407439074
+continent,北美洲
+country,United States
+salinity,2007：0.2326 PSU；2012：0.229 PSU；2017：0.2239 PSU（SPIN论文模型电导率经PSS-78/Hill换算；夏季表层估计，非实测值）
+lake and reservoir types,natural_lake_hydrolakes
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,0.91m/℃,1.37m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1988-06-20,,,24.44,,,,,,,,,,,,
+1988-06-22,,,24.5,24.11,23.89,,,,,,,,,,

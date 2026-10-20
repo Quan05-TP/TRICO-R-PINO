@@ -1,0 +1,12 @@
+﻿lake_name,LAGO TEPUHEICO
+lake_ID,CSV:CHILE_DGA_EULA_2021:LAKE_29
+latitude,-42.788456
+longtitude,-73.965793
+continent,南美洲
+country,Chile
+salinity,0.5 PSU
+lake and reservoir types,
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-02-15,11:21:00,,20.77,,,,,,,,,,

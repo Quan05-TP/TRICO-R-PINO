@@ -1,0 +1,12 @@
+﻿lake_name,Pickerel Slough
+lake_ID,NHD:nhdhr_625401dc-1c40-4295-9af7-2596ee4380e4
+latitude,44.60672528681983
+longtitude,-92.614233879069
+continent,北美洲
+country,United States
+salinity,0.2093 PSU（比电导率按PSS-78/Hill公式换算中位数；范围0.2059—0.2662 PSU；1994-11-09至1996-05-01；非本CSV逐行同期值）
+lake and reservoir types,unresolved_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.3m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+1994-11-09,,,11.8,,,,,,,,,,

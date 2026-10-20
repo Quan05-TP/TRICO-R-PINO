@@ -1,0 +1,15 @@
+﻿lake_name,CATFISH POND
+lake_ID,CSV:UNMATCHED_CLUSTER_9e89f54ab311b163
+latitude,41.0397015
+longtitude,-74.996641
+continent,北美洲
+country,United States
+salinity,0.007615 PSU（电导率按PSS-78/Hill公式换算的中位数；范围0.007615–0.007615 PSU；2017-09-26至2017-09-26，1个源测站；源水样统计，非本CSV逐行同期值）
+lake and reservoir types,natural_lake_source_only_unmatched
+
+
+datetime_day,datetime_hour/minute,实测温深数据,0.1m/℃,1m/℃,2m/℃,3m/℃,3.3m/℃,3.8m/℃,3.9m/℃,ERA数据,2米气温（℃）,2m露点温度（℃）,10米东西向风速（m/s）,10米南北向风速（m/s）,地表气压（Pa）,向下短波辐射（W/m²）,向下长波辐射（W/m²）,总降水（m/小时）,降雪水当量（m/小时）
+2017-09-26,,,24.35,23.96,23.83,23.4,23.25,,,,,,,,,,,,
+2017-09-26,,,24.52,,,,,,,,,,,,,,,,
+2022-07-12,,,25.6,25.6,25.5,25.4,,,24.1,,,,,,,,,,
+2022-09-27,,,17.9,17.9,17.9,17.9,,17.9,,,,,,,,,,,
